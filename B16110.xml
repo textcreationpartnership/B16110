@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thys booke is called the treasure of gladnesse and semeth by the copy, (beeing a verye litle manuel, and vvritten in velam) to be made aboue CC. yeres past at the least. Wherby it appeareth howe God in olde time, and not of late only, hath ben truely confessed and honored. The coppy hereof is for the antiquity of it, preserued, and to be seene in the printers hall. Set forth and alowed, accordyng to the Quenes iniunctions. And now first imprinted</title>
+            <title>Treasure of gladnesse.</title>
+         </titleStmt>
+         <extent>Approx. 87KB of XML-encoded text transcribed from 74 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16110</idno><idno type="EEBO-CITATION">99842570</idno>
+  <idno type="VID">176774</idno>
+  <idno type="EEBO-PROQUEST">2240864658</idno>
+  <idno type="STC">STC 24190.7</idno>
+  <idno type="STC">ESTC S106861</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842570e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 669:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thys booke is called the treasure of gladnesse and semeth by the copy, (beeing a verye litle manuel, and vvritten in velam) to be made aboue CC. yeres past at the least. Wherby it appeareth howe God in olde time, and not of late only, hath ben truely confessed and honored. The coppy hereof is for the antiquity of it, preserued, and to be seene in the printers hall. Set forth and alowed, accordyng to the Quenes iniunctions. And now first imprinted</title>
+                  <title>Treasure of gladnesse.</title>
+               </titleStmt>
+               <extent>70, [2] leaves   </extent>
+               <publicationStmt>
+                  <publisher>By [Henry Denham for] John Charlewood dwellyng in Barbican [and] there to be solde at his shop],</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno. 1563.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's and publisher's names from colophon.</note>
+                  <note>H5 missigned G3; folios 36 and 38 misnumbered 38 and 36.</note>
+                  <note>Identified as STC 24191b on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayers --  Early works to 1800.</term>
+               <term type="topical_term">Devotional exercises --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176774:1"/>
+            <pb facs="tcp:176774:1"/>
+            <p>¶ Thys booke is called the Treasure of Gladnesse and semeth by the Copy (beeing a verye litle Manuel, and written in velam) to be made aboue LL. yeres past at the least.</p>
+            <p>Wherby appeareth howe God in olde time, and not of late only hath ben truely confessed and honored</p>
+            <p>The coppy hereof is for the anti<g ref="char:EOLhyphen"/>quity of it, preserued and to be seene in the Printers Hall.</p>
+            <p>¶ Set forth and alowed, ac<g ref="char:EOLhyphen"/>cordyng to the Queenes Iniunctions.</p>
+            <p>And now first Imprinted Anno. 1563.</p>
+            <pb facs="tcp:176774:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176774:3"/>
+            <pb facs="tcp:176774:3"/>
+            <head>¶ The Treasure of Gladnesse.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Aith the pro<g ref="char:EOLunhyphen"/>phete:<note place="margin">Ose 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Take these words w<seg rend="sup">t</seg> you, whē you tourne vnto y<seg rend="sup">t</seg> lord, and say vnto him: O for<g ref="char:EOLhyphen"/>gyue vs all our sinnes, re<g ref="char:EOLhyphen"/>ceaue vs graciously, as for the workes of our handes, we wil no more call vpon, for it is thou that arte our god, thou shewest mercy vnto the fatherlesse.<note place="margin">Iohn 14</note>
+            </p>
+            <p>Saith Christ: If ye aske oughte of the father in my name, it shalbe giuen you.</p>
+            <pb facs="tcp:176774:4"/>
+            <p>Aske and haue, seeke and<note place="margin">Mat <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7</note> finde, knocke, and it shalbe opened vnto you.</p>
+            <div type="prayer">
+               <head>The prayer.</head>
+               <p>O most mercifull God, &amp; louing father: I besech thee for thy sonne Christs sake heare my prayer. O receaue mee graciously, &amp; forgyue me all my sinnes: and from henceforth gyue me thy holy Angell to con<g ref="char:EOLhyphen"/>duct mee: And strengthen mee with these vertues: to wythstande the deuill, the world, and the appetites of the synnefull fleshe these armures, the grace of thy holy spirit, y<seg rend="sup">•</seg> mighty ver<g ref="char:EOLhyphen"/>tue.
+<pb n="3" facs="tcp:176774:4"/> O write in my harte thy holy worde, thy law, &amp; cōmaundements put vpon me y<seg rend="sup">•</seg> brest plate of righte<g ref="char:EOLhyphen"/>ousenesse, directe my life, &amp; conuersacion accordinge to thi gospel of peace Geue me y<seg rend="sup">•</seg> shield of faith to fight against sinne, and desper<g ref="char:EOLhyphen"/>ation, y<seg rend="sup">•</seg> helmete of health vnto my saluatiō, through the merites of thy dearely beloued son Iesus Christ, the whiche liueth, &amp; raig<g ref="char:EOLhyphen"/>neth god wyth thee, &amp; the holy ghost in glory. Amen.</p>
+            </div>
+            <div type="prayer">
+               <p>O Lord god mercyfull Father the author, &amp; gouernor of all crea<g ref="char:EOLhyphen"/>tures,
+<pb facs="tcp:176774:5"/> the geuer of al wis<g ref="char:EOLhyphen"/>dō, I pore wretched sinner beseching thee for thy sōns Christes sake, y<seg rend="sup">•</seg> thou wilt vouchsafe to poure vpō me thy holi spyrite, to work in my mynde, hart &amp; soule, thy wil &amp; pleasure to do at all tymes: so that I maye walke in this world to thy honor, professinge vnfay<g ref="char:EOLhyphen"/>nedly, the gospel of thy sō<g ref="char:EOLhyphen"/>ne, &amp; wlake accordīg ther<g ref="char:EOLhyphen"/>after, vnto my saluacion, throughe the merits of thy sonne my lords and sauior Iesu Christe the whiche is with thee in heauen glory<g ref="char:EOLhyphen"/>fied. Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb n="4" facs="tcp:176774:5"/>
+               <head>An other prayer.</head>
+               <p>O lord god, father, for thy sonne Christes sake haue mercy vpon me &amp; forgeue me al my sinnes, &amp; from henceforth take from me all rancor, and swellinge of my hart, &amp; creat in me a new spirite, an vprighte harte, such a harte as may feare thy rigorous iudge<g ref="char:EOLhyphen"/>mente, a harte to lamente my vnkindenesse, &amp; sinne<g ref="char:EOLhyphen"/>full life. O lorde geue me such an hart as may loue, &amp; fere the aboue al things, suche an harte as alwaye trusteth in thee, suche an harte as maye pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciently
+<pb facs="tcp:176774:6"/> beare thy correction yea such an hart as may praise and thanke thee, O Lorde god, father, sonne &amp; holy ghoste? O lorde geue mee such an hart as will glad<g ref="char:EOLhyphen"/>ly forgeue, such a harte as will do good for yll, such a hart as wil hurte no man, such a harte as euer doth truly beleue in y<seg rend="sup">•</seg> passion, death, and resurrection of Iesu Christe vnto my sal<g ref="char:EOLhyphen"/>uacion, Amen.</p>
+               <p>O lord haue mercy vpon all people. Amen.</p>
+               <p>Our father which arte. &amp;c.</p>
+               <p>The Crede.</p>
+               <q>I beleue in God. &amp;c.</q>
+            </div>
+            <div type="testament">
+               <pb n="5" facs="tcp:176774:6"/>
+               <head>My Testament.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His I make my Testament, and laste will: in the name of the e<g ref="char:EOLhyphen"/>ternall liuynge God: the father, the sonne &amp; the holy ghost: in whose name I was baptized. In<note place="margin">Math. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> marc. 16</note> whome onely I hope. and beleue to be saued. Amen. First I bequethe my soule into thy hands: O god. fa<g ref="char:EOLhyphen"/>ther: sonne, &amp; holy Ghost.<note place="margin">Gyne <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Esa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e 53 Iohn 16</note>
+               </p>
+               <p>Thou hast first made me and thou hast gyuen thy sonne to becom man: and died for my sinnes &amp; for the
+<pb facs="tcp:176774:7"/> sinnes of the people, O fa<g ref="char:EOLhyphen"/>ther<note place="margin">Iohn 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> for thy sonnes sake haue mercy vpon me.</p>
+               <p>O lorde Iesu Christ, thou<note place="margin">1 Petri 1</note> sonne of god, thou haste boughte me with thy pre<g ref="char:EOLhyphen"/>cious<note place="margin">Heb 10</note> bloud.</p>
+               <p>By one oblacion suffi<g ref="char:EOLhyphen"/>ciently,<note place="margin">Act 1</note> for all that beleue in thee.</p>
+               <p>O Christ, god and man,<note place="margin">Iohn 14</note> which art in heauen, haue m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcy vpon me, &amp; be thou my mercifull mediator for me vnto thy father, that I m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be saued.</p>
+               <p>O holy Ghost god, coequal with the father and the sōne, haue mecry vpō me,
+<pb n="6" facs="tcp:176774:7"/> worke thy deuine power in me, through thy graci<g ref="char:EOLhyphen"/>ous inspiracion, draw me vnto Iesu Christ, y<seg rend="sup">t</seg> I may find fauor &amp; be saued. Amē</p>
+               <div type="part">
+                  <head>The second part.</head>
+                  <p>As concerninge my body:<note place="margin">Gen 1. 13</note> that I bequeath vnto the earth frō whence it came.<note place="margin">Eccl 40</note>
+                  </p>
+               </div>
+               <div type="confession">
+                  <head>My confession.</head>
+                  <p>I knowledge, and confesse with al my hart, that I am a sinner, yea such a sinner as hath neede of the grace mercy, and fauour of God.</p>
+               </div>
+               <div type="part">
+                  <head>My faith ioyned with hope.</head>
+                  <p>I beleue, that the lord will haue mercy vpon me: for hee hath first made me, &amp;<note place="margin">Gen 2</note>
+                     <pb facs="tcp:176774:8"/> if it shal please him he may saue mee, This I beleue, whether I liue, or dy: I am the lordes.</p>
+               </div>
+               <div type="part">
+                  <head>My Hope.</head>
+                  <p>I hope that I shall finde bothe grace &amp; mercy for my sinnes of God y<seg rend="sup">•</seg> father euen for Iesu Christs sake: in him I beleue, he is my redemer: he lyueth euer, and euer.</p>
+                  <p>He maketh intercession<note place="margin">Rom 8</note> for sinners.</p>
+                  <p>So this I know that now<note place="margin">Iohn 2</note> I am a corruptible bodye, but I hope through Christ to rise an in corruptyble body, Now a mortal bo<g ref="char:EOLhyphen"/>dy:
+<pb n="7" facs="tcp:176774:8"/> but through Christ and his merites, I hope to haue an immortall body.</p>
+                  <p>Nowe an earthly bodye:<note place="margin">i Cor 13</note> then a heauenly body.</p>
+                  <p>For as many as shalbe sa<g ref="char:EOLunhyphen"/>ued<note place="margin">Math 13</note> shal shine in the king<g ref="char:EOLhyphen"/>dom of God: as bright as y<seg rend="sup">•</seg> sunne, this my faith &amp; hope I lay vp in my minde the mind of my soule trusting only to be saued through y<seg rend="sup">•</seg> merites of Iesu Christ god<note place="margin">Marci 16</note> &amp; man, which is in heauen.</p>
+                  <p>From whence we loke a gain, the which shal chāge our vile body, &amp; mak it like his own most glorious bo<g ref="char:EOLhyphen"/>dy:<note place="margin">Phi <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> where by he is able to
+<pb facs="tcp:176774:9"/> subdue al things vnto him self. O Christ haue mercy vpō me, thou hast redemed me, O Christe saue me.</p>
+                  <p>Say I will the Crede.</p>
+                  <q>¶ I beleue in God &amp;c.</q>
+               </div>
+               <div type="part">
+                  <epigraph>
+                     <q>
+                        <bibl>Iohn. 17. 1. Cor 8.</bibl>
+                     </q>
+                  </epigraph>
+                  <p>THe glas, wherin we should behold our in firmities proceding to vs orygynally of our naturall father Adam. He first brought sinne in<note place="margin">Gen 3</note> to this world: In so muche that sinne, and death went<note place="margin">Rom 5</note> ouer al men, as saith y<seg rend="sup">e</seg> pro<g ref="char:EOLunhyphen"/>phet<note place="margin">Psa 52 Ephe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> Dauid: we are concei<g ref="char:EOLunhyphen"/>ued in sinne. And wee are borne into this world, the
+<pb n="8" facs="tcp:176774:9"/> children of wrath, fulfilled<note place="margin">Iob 14</note> with much mysery: &amp; haue but a short tyme to liue.</p>
+                  <p>Earth we are, and to the<note place="margin">Gen <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> earth we shal turne again.</p>
+                  <p>All flesh is as grasse, and<note place="margin">Esa 40</note> the glory of man is as the floure of the grasse.</p>
+                  <p>And also great trauailes<note place="margin">Eccl 40</note> are created for al men, frō the day that they go out of their mothers belly, til the tyme that they bee buryed in the earthe, the mother of all things.</p>
+                  <p>We are all sinners, vn<g ref="char:EOLhyphen"/>cleane,<note place="margin">Esa 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Eccl 7</note> vnrighteous. Not one iust vpon the earth y<seg rend="sup">•</seg> doth good and sinneth not.</p>
+                  <pb facs="tcp:176774:10"/>
+                  <p>And when we are depar<g ref="char:EOLhyphen"/>ted<note place="margin">Eccles 9</note> out of this world, there is no remedy for our salua<g ref="char:EOLunhyphen"/>cion of any thing that may be done. The prophet Da<g ref="char:EOLhyphen"/>uid<note place="margin">Psalm 49</note> saith. No man may de<g ref="char:EOLhyphen"/>liuer his brother from hel, neither make agremēt vn<g ref="char:EOLhyphen"/>to God for him. We nowe mai clerely se in what case al mākind is in naturally, al sinfull, infected by na<g ref="char:EOLhyphen"/>ture vnto the dying of the soule and body: and snared alwaies with the snares of our ennemy the deuell, the world, and the fleshe. This is the mortall bataile, the which taketh vs captiues
+<pb n="9" facs="tcp:176774:10"/> into that sorowful prison of hell.</p>
+                  <p>Wher the wormes of tor<g ref="char:EOLunhyphen"/>mente<note place="margin">Matt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> neuer dye, and the fier neuer goth out.</p>
+                  <p>And there continually,<note place="margin">Apo 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> to remaine in euerlasting dampnacion, in that woful second death. O vaine mā, O most miserable, o earth, a shes, dust, O vain beutie, O vain proud hart, o world<g ref="char:EOLunhyphen"/>ly couetous mind, O world<g ref="char:EOLunhyphen"/>ly glory, O gold &amp; mony, O what profiteth all the pleasures of this worlde? youth, beutie, riches, lan<g ref="char:EOLhyphen"/>des, rentes, frendes, pol<g ref="char:EOLhyphen"/>ling, falshed, wrōg gotten
+<pb facs="tcp:176774:11"/> goods, sūptuous buyldīg<g ref="char:EOLhyphen"/>es, curious apparel, &amp; cost<g ref="char:EOLhyphen"/>lye fare, or long tyme in this world liuing viciously &amp; dy vngodly. Now se then all the glory of this world wherto it hath, &amp; doth brīg al mankind, euen into the euerlastinge fier of Hell, with the great rich mā spo<g ref="char:EOLunhyphen"/>ken of in the gospell. Ther<g ref="char:EOLunhyphen"/>fore<note place="margin">Luke 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> loue not the world, ne<g ref="char:EOLunhyphen"/>ther the things that are in the world. If any mā loue the worlde, the loue of the father is not in him, for all that is in the world, is the luste of the fleshe, and the lust of the eyes, &amp; the pride
+<pb n="16" facs="tcp:176774:11"/> of life, whiche is not of the father, but of y<seg rend="sup">•</seg> world. The world passeth away, &amp; the lustes there of: but he that<note place="margin">I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> fulfilleth the will of god, bideth for euer, saith Iohn. Lay frō you the old man, whiche marres hym selfe through deceuable lustes.<note place="margin">Ephe 4</note> And againe he saithe: who so is godly, holdeth himself content with that he hath. For we brought no thyng into this world, &amp; we shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ary nothing out So then whē we haue foode &amp; r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y<g ref="char:EOLhyphen"/>mtē, set vs therwith be cō<g ref="char:EOLunhyphen"/>tent: for t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey that wold be worldly rich, fal into temp<g ref="char:EOLunhyphen"/>tacion,
+<pb facs="tcp:176774:12"/> and into the snares of foolishnes, and noisome lustes: which drown mē in destruction, &amp; dampnaciō couetousnes is the rote of<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Timo 6</note> all euel saith sainct Paul, and he that trusteth in his<note place="margin">Proue 11</note> riches shall haue a fall▪</p>
+                  <p>Gather not treasure vpō<note place="margin">Mat 6</note> erth, where ruste, and mo<g ref="char:EOLhyphen"/>thes corrupte for where your hart is there is your treasure also.</p>
+                  <p>The cōfortable counsel of our ghostly father, the vn<g ref="char:EOLhyphen"/>defiled priest: &amp; bisshop of<note place="margin">Luke 1. 9</note> our soules Iesu Christe y<seg rend="sup">•</seg> sonne of God.</p>
+                  <p>The which of his bounti<g ref="char:EOLhyphen"/>ous
+<pb n="11" facs="tcp:176774:12"/> liberality preacheth to vs the gospel, sayinge re<g ref="char:EOLhyphen"/>pent, &amp; eleue the ghospel,<note place="margin">Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ke <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Iohn 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> walk while ye haue light, least darknes com vpō you.</p>
+                  <p>Come all vnto mee that<note place="margin">Matth 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> labour, and are laden, I will refresh you</p>
+                  <p>Aske and haue, seeke and<note place="margin">Mark <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inde, knocke and it shalbe <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ened vnto you.</p>
+                  <p>This saith good councel,<note place="margin">Rom 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> the holy scriptures for our comfort are written,</p>
+                  <p>Turne vnto the Lorde<note place="margin">Ioel 11.</note> thy God, for he is graci<g ref="char:EOLhyphen"/>ous and mercifull, greate in compassion, long suffe<g ref="char:EOLhyphen"/>ring, and redy to parddn
+<pb facs="tcp:176774:13"/> wickednes.</p>
+                  <p>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke the lord while he<note place="margin">Esa 55</note> maye be founde, call vpon him while he is nye.</p>
+                  <p>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y not, tush the mercy<note place="margin">Eccles. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> of the lord is great, he shal forgyue mee my sinnes, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e they neuer so manye. But truly as he is mercifull, so goeth wrath from him.</p>
+                  <p>Therefore make no tary<g ref="char:EOLhyphen"/>yng, tou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne to the lorde, and put not of from d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ye, to day, Therefore forsake thy sinnes, and praye that thy sinnes maye be forgi<g ref="char:EOLhyphen"/>uen<note place="margin">E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cl 11</note> thee.</p>
+                  <p>To repent is the gifte of god.</p>
+                  <pb n="12" facs="tcp:176774:13"/>
+                  <p>It is the louing kindnes<note place="margin">Rom <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> of god that leadeth to re<g ref="char:EOLhyphen"/>pentaunce.</p>
+                  <p>Godly sorow causeth re<g ref="char:EOLhyphen"/>pentaunce,<note place="margin">2 Cor 5▪</note> but worldly so<g ref="char:EOLhyphen"/>row causeth death.</p>
+                  <p>When ye turne vnto the<note place="margin">Osie▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> Lord your god, say. O for<g ref="char:EOLhyphen"/>gyue vs all our sinnes, re<g ref="char:EOLhyphen"/>ceiue vs graciously: As for the workes of our handes, we will cal no more vpon.</p>
+               </div>
+            </div>
+            <div type="confession">
+               <head>The Confession of the penitent sinner, conceiued throughe faith, ioyned with a stronge hope in Christes me<g ref="char:EOLhyphen"/>rites.</head>
+               <pb facs="tcp:176774:14"/>
+               <p>
+                  <seg rend="decorInit">W</seg>E are al sin<g ref="char:EOLhyphen"/>ners,<note place="margin">Rom <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> &amp; haue neede of the glori of god. Vnto the O most merci<g ref="char:EOLhyphen"/>full Father, and louinge lorde, I a wretch most vile knowlege me a sinner, yea Lorde I am suche a sinner<note place="margin">Mala<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2 Ps<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1</note> as hath neede of thy grace mercy &amp; fauor the law of works do condempne me▪ O lord in thy sight ther is no man righteous.</p>
+               <p>O wretched man that I am: who shall delyuer me frō the body of this death? I thanke god throwe Iesu<note place="margin">Rom 5</note>
+                  <pb n="13" facs="tcp:176774:14"/> my Lord, for he is the seed<note place="margin">Gen <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of the woman.</p>
+               <p>Whom god, the father promised that should tread down the head of Sathan.<note place="margin">G<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>Christ is the seed in whō all nacions of the worlde shalbe blessed. Christ is he that defendeth his people from Hell and Sathan.<note place="margin">Gen 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Proue 10</note>
+               </p>
+               <p>Christ is the blessinge of god by the which all na<g ref="char:EOLhyphen"/>cions of the worlde shalbe<note place="margin">Psal 10▪</note> made riche.</p>
+               <p>He is the greate Kyng o<g ref="char:EOLhyphen"/>uer<note place="margin">2 Re 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> all the earthe.</p>
+               <p>He is a shilde vnto them<note place="margin">Psa 10<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> that t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ust in him.</p>
+               <p>He shall forgeue all tres<g ref="char:EOLhyphen"/>pases,<note place="margin">Psa <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <pb facs="tcp:176774:15"/> &amp; heale al <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>firmites, and he shall redeme vs frō death. Christ is he that de<g ref="char:EOLhyphen"/>fendeth<note place="margin">Psa 3</note> his people, &amp; bles<g ref="char:EOLhyphen"/>seth them. Christ is our sa<g ref="char:EOLhyphen"/>uing<note place="margin">Psal 18</note> health and sanctifier.</p>
+               <p>Christ is hee in whom<note place="margin">Psal 22</note> alone our fathers trusted, and he delyuered them. Christ is gentle, blessed is the man that trusteth in him. Christ is he, euen the<note place="margin">Psa 34</note> lord with whom is mercy and plenteous redempciō.</p>
+               <p>He is a true god, and<note place="margin">Psa. 119</note> a liuyng god, and an euer<g ref="char:EOLhyphen"/>lastyng Kinge.</p>
+               <p>Who so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r forsaketh him, shall be confounded &amp;
+<pb n="14" facs="tcp:176774:15"/> cursed: but blessed is the man that trusteth in him.</p>
+               <p>Christ is the lord, the<note place="margin">Iere 17</note> very con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uites of y<seg rend="sup">•</seg> water of lyfe.</p>
+               <p>He is the sonne that is borne, and gyuen vnto vs, vpon his shoulders shall the Kyngdom lye, he shall be called with his owne name, the wōderous geuer of councels, the mightie god, the euerlasting father the Prince of peace.</p>
+               <p>Our righteous maker,<note place="margin">Iere 23</note> as he saith by y<seg rend="sup">•</seg> Prophet, I am euen he that for my owne sake, taketh awaye<note place="margin">Esa 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> thine offences. I will no
+<pb facs="tcp:176774:16"/> more thynke on them.</p>
+               <p>I will geue myne ho<g ref="char:EOLhyphen"/>nor<note place="margin">Esa 48</note> to none other. I am y<seg rend="sup">•</seg> first, and the last.</p>
+               <p>Tourne vnto mee all<note place="margin">Esa 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> ends of the erth, &amp; be saued</p>
+               <p>I am the true god, and<note place="margin">Esa 45</note> sauiour, without me there is none other god. Al souls are mine, like as y<seg rend="sup">•</seg> father is mine.<note place="margin">Esechi 8</note>
+               </p>
+               <p>I am he y<seg rend="sup">e</seg> redemeth thee</p>
+               <p>Thou shalt haue none<note place="margin">Osie 7. 13.</note> other sauior, but only me.</p>
+               <p>Tourne vnto me, and<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acha 1</note> I wil tourne vnto you.</p>
+               <p>I will not the death of<note place="margin">Esech 19</note> a sinner I had rather that he wyll tourne, &amp; besaued.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:176774:16"/>
+               <head>¶ The newe testament.</head>
+               <p>TO fulfyll the pro<g ref="char:EOLhyphen"/>mise<note place="margin">Gen <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of the father, and the prophesi of the Prophetes for<note place="margin">Esa <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 22. 53. Ebru <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> our sanctuacion.</p>
+               <p>Saith Paule, God in time past, diuersly and manye wayes spake vnto the fa<g ref="char:EOLhyphen"/>thers by Prophetes, but in these laste dayes he hathe spokē vnto vs by his sonne</p>
+               <p>Whome God the father hath made heir of al thīgs.</p>
+               <p>Christ the only begotten<note place="margin">Esaie 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gen 3</note> sonne of God. And sprang of y<seg rend="sup">•</seg> rote of Iesse, became man in the wombe of the<note place="margin">Luke <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Luke <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> woman Mary the virgyn.</p>
+               <pb facs="tcp:176774:17"/>
+               <p>And borne in Bethelem the lord and sauiour, he is the Emanuel, he is the ve<g ref="char:EOLhyphen"/>ry<note place="margin">Esaie. 12</note> Messias, that is to saye, Christe, he shall saue his people from their sinnes.<note place="margin">Iohn 4 Esaie 61</note>
+               </p>
+               <p>He preached glad ty<g ref="char:EOLhyphen"/>dynges, he byndeth vp the wounded harte, he deliue<g ref="char:EOLhyphen"/>reth y<seg rend="sup">•</seg> captiues, he openeth the prison to them that are bound, that he might declare y<seg rend="sup">•</seg> acceptable yeare of y<seg rend="sup">•</seg> lorde. Saith Christ, y<seg rend="sup">•</seg>
+                  <note place="margin">Iohn 6 Mat 28</note> words that I speak, is spi<g ref="char:EOLhyphen"/>rite, and lyfe.</p>
+               <p>To mee (saieth Christ) is<note place="margin">Iohn 3</note> gyuen al powers in heauē and earth.</p>
+               <pb n="16" facs="tcp:176774:17"/>
+               <p>God so loued the world, that he gaue his onely be<g ref="char:EOLhyphen"/>gotten sonne, that who so euer beleueth in him, shou<g ref="char:EOLhyphen"/>lde not perishe, but haue euerlastyng lyfe.</p>
+               <p>The father spake from<note place="margin">Matth 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> heauen, saying: this is my dearly beloued sonne, hear ye him. Father, this is life euerlastyng, to know thee<note place="margin">Iohn 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> that thou art the true god, and whom thou hast sent, Iesu Christ.</p>
+               <p>What so euer the father<note place="margin">Iohn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> doth, so doth y<seg rend="sup">•</seg> sonne also, for as the father raiseth vp the dead, and maketh thē liue, euen so the sonne ma<g ref="char:EOLhyphen"/>keth
+<pb facs="tcp:176774:18"/> lyuing whom he will that they all might honor the sonne, euen as they ho<g ref="char:EOLhyphen"/>nor the father.</p>
+               <p>I am the resurrectiō and<note place="margin">Iohn 11</note> the lyfe.</p>
+               <p>If ye aske the father au<g ref="char:EOLhyphen"/>ght<note place="margin">Iohn 16</note> in my name ye shal re<g ref="char:EOLhyphen"/>ceaue it, that your ioy may be perfet.</p>
+               <p>If you beleue in mee<note place="margin">Iohn 6</note> you shall be saued.</p>
+               <p>I am the waye, the truth<note place="margin">Iohn 14</note> and the life, without mee commeth no man too the father.</p>
+               <p>I came into this world<note place="margin">Luke 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> to seeke and saue that that was lost.</p>
+               <pb n="17" facs="tcp:176774:18"/>
+               <p>I cam not to cal y<seg rend="sup">•</seg> right<g ref="char:EOLhyphen"/>ous<note place="margin">Mat <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> but sinners to repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p>Whosoeuer beleueth in mee I wyll raise him vnto euerlastinge life.</p>
+               <p>I haue gyuen my life for<note place="margin">Iohn. 3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪</note> the worlde.</p>
+               <p>Come vnto me all ye y<seg rend="sup">•</seg>
+                  <note place="margin">Ihon. vi Math. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> labour, and are laden, and I wyll refresh you.</p>
+               <p>Who soeuer loueth mee, shal be loued of my father.</p>
+               <p>If ye beleue in me I wil<note place="margin">Ihon. 14</note> make you free, yea except you beleue that I am hee, ye shal d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in your sinnes.<note place="margin">Ihon. vii<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Math. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Apostles and Prophets.</head>
+               <pb facs="tcp:176774:19"/>
+               <p>THis cōfessed Peter,<note place="margin">Mat <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> thou arte Chryst the sonne of the lyuinge God.<note place="margin">Iohn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>By that same Iesu Christe were al things made, both in heauen and earth, saieth<note place="margin">Iohn 1</note> Iohn, he is the only begot<g ref="char:EOLhyphen"/>ten sonne of god, full of truth: of his fullenesse we al haue receyued grace for<note place="margin">Iohn 1 Iohn 1</note> grace, he is the lambe of God that taketh away the sinnes of the worlde.<note place="margin">I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hn 1</note>
+               </p>
+               <p>By him are we made the sōnes of god, so we beleue<note place="margin">Iohn 1</note> in his name.</p>
+               <p>He is the baptiser with the holy ghoste.</p>
+               <pb n="18" facs="tcp:176774:19"/>
+               <p>He is the true light y<seg rend="sup">e</seg> light<g ref="char:EOLunhyphen"/>teth al men that come into<note place="margin">Esa 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> this worlde.</p>
+               <p>This is our Captaine &amp;<note place="margin">Esa 25</note> our sauiour to deliuer vs.</p>
+               <p>This is the lorde our god in whom we put our trust, he shal heale vs. this is the lorde that we haue waited<note place="margin">Esa 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> for, let vs reioyce in his sal<g ref="char:EOLunhyphen"/>uacion.</p>
+               <p>For he hath taken vpon him our dyseases, and hath borne away our sorowes,</p>
+               <p>He was offered for vs, it<note place="margin">Esa 53</note> was his pleasure, he was woūded for our iniquities, and brused for our sinnes.</p>
+               <p>He shall buyld vp y<seg rend="sup">•</seg> tēple<note place="margin">Zacha <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <pb facs="tcp:176774:20"/> of the Lorde, he shall beare the p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yse, he shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a priest vpon his throne.</p>
+               <p>He shalbe magnified vn<g ref="char:EOLhyphen"/>to<note place="margin">Mala. 5</note> the farthest parte of the worlde.</p>
+               <p>He taketh away y<seg rend="sup">•</seg> sinnes of the people, he shall make<note place="margin">Esay. 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> intercession for y<seg rend="sup">•</seg> misdoers. Throughe hym the Lorde<note place="margin">Esa. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> pardoneth all oure synnes. Where is there such a god<note place="margin">Mala. 7</note> as t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou y<seg rend="sup">•</seg> pardone the wic<g ref="char:EOLhyphen"/>kednesse, and forgeuest the sinnes of thy people he shal saue the people from theyr<note place="margin">Math. i. G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne. i Luke. ii Luke 24</note> sinnes.</p>
+               <p>Christ the sonne of God. He became man borne in
+<pb n="19" facs="tcp:176774:20"/> to the world.</p>
+               <p>Wee proued hym a very man.</p>
+               <p>He was slain after y<seg rend="sup">•</seg> flesh,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Peter <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> but quicke after the spirit.</p>
+               <p>Wee proued hym God by<note place="margin">Thou, x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> wonders,</p>
+               <p>So to cōclude he came in<g ref="char:EOLhyphen"/>to<note place="margin">Gene. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> this world to do the will of god his father.</p>
+               <p>To saue as many as be<g ref="char:EOLhyphen"/>leueth,<note place="margin">Ihon. iii</note> he sealled vp our re<g ref="char:EOLunhyphen"/>demption in hys merytes with his precious bloud v<g ref="char:EOLhyphen"/>pon the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lter the crosse sai<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng nowe it is fenished.</p>
+               <p>He was buried, &amp; he rose.<note place="margin">Ihon. 19 Ihon. 29</note> againe the third day, per<g ref="char:EOLhyphen"/>fecte God &amp; perfecte man,
+<pb facs="tcp:176774:21"/> one christ, was cōuersant wyth hys Apostes, xl. daies after his resurrection.<note place="margin">Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke 16</note>
+               </p>
+               <p>And then was taken vp into heauē, perfit God and perfit man: one Christe.<note place="margin">Iohn 16</note>
+               </p>
+               <p>Then he sent doune the holy ghoste accordynge to hys sonnes promise.</p>
+            </div>
+            <div type="part">
+               <head>The catholicke church</head>
+               <p>Christ is the head whiche saithe.</p>
+               <q>WHO so euer know<g ref="char:EOLhyphen"/>ledgeth<note place="margin">Mat 20</note> mee before men, I will know<g ref="char:EOLhyphen"/>ledge hym before my fa<g ref="char:EOLhyphen"/>ther,
+<pb n="20" facs="tcp:176774:21"/> whiche is in heauen.</q>
+            </div>
+            <div type="part">
+               <head>The actes of the Apostles.</head>
+               <p>WHen Iesus hath spo<g ref="char:EOLhyphen"/>ken<note place="margin">Act <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> vnto them, he was taken vp, and a cloude receiued hym from their sight. And while they loked after hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as he wēt in y<seg rend="sup">•</seg> heuen. Behold ther stood by them two men in white garmētes, which also said: Ye men of Galiley, why stand ye gazing vp into the heauen: this Iesus whiche is taken vp from you into heauen, shal come euen so as ye haue sene hym go in<g ref="char:EOLhyphen"/>to<note place="margin">Act 2</note> heauen.</p>
+               <pb facs="tcp:176774:22"/>
+               <p>The Apostles receyue the<note place="margin">Act. 1</note> holy ghost: and they began to preache w<seg rend="sup">t</seg> other toun<g ref="char:EOLhyphen"/>ges: euē as the spirit gaue them vtteraunce.</p>
+               <p>Saieth god I wil powre of<note place="margin">Act, 1</note> my sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit vpon all fleshe &amp; they shall prophesye. this Iesus, hath god raised vp wherof we al ar witnesses.</p>
+               <p>The lorde saide vnto my<note place="margin">Act. 2 Psa. x.</note> lorde syt thou on my right hande vnt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll I make thyne ennemyes thy foote stoole.</p>
+               <p>God hath made the same Iesus whome the Iewes<note place="margin">Act. 2</note> crucified, lorde, and Christ.</p>
+               <p>He is the true sauiour of<note place="margin">Ihon. iiii. Acc. 4.</note> the world neyther is there
+<pb n="21" facs="tcp:176774:22"/> saluacion in any other nei<g ref="char:EOLhyphen"/>ther any other name gyuē wherin we must be saued.</p>
+               <p>Christe dwelleth not in<note place="margin">Act. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> temples made with hands as he saieth by y<seg rend="sup">e</seg> Prophet:<note place="margin">Esa. 66</note> heauen is my seat and the earth is my foote stoole.</p>
+               <p>He is not worshiped with handes: as thoughe he had need of any mā: for in hym we liue, moue, &amp; haue our be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yng.<note place="margin">Eccle. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Psal. 11<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>Our God is in heauen, &amp; bothe whatsoeuer lyke the hym.</p>
+               <p>God is a spirite, and they<note place="margin">Ihon. iiii.</note> that worship hym, must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worship hym in spirit, and
+<pb facs="tcp:176774:23"/> truth.</p>
+               <p>Christ is ordeined of god<note place="margin">Act 10</note> to be y<seg rend="sup">•</seg> iudge of the liuing, and of the dead.</p>
+               <p>The father hath giuen al<note place="margin">Iohn 5</note> Iudgement vnto the sōne, that all maye honour the sonne as they honour the father.</p>
+               <p>And all the Prophetes<note place="margin">Act 10</note> witnes that throughe his name al they that beleue in hys name shal receyue y<seg rend="sup">•</seg> remission for their sinnes</p>
+               <p>We beleeue to be saued<note place="margin">Act 15</note> throughe the grace of the lorde Iesu Christe like as<note place="margin">Iohn 5</note> they also.</p>
+               <p>V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rili verili I sai vnto you
+<pb n="22" facs="tcp:176774:23"/> who so heareth my worde, and beleueth him that sēt me, hath euerlasting life, and cōmeth not into dane<g ref="char:EOLunhyphen"/>naciō but is passed through from death vnto life. Whē Paul had receaued y<seg rend="sup">•</seg> holy<note place="margin">Act▪</note> ghost, this he cōfessyd, pre<g ref="char:EOLunhyphen"/>ched, and said I put a part to preche y<seg rend="sup">•</seg> ghospel of God which he promised before by his Prophets in y<seg rend="sup">•</seg> holy<note place="margin">Gene <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Esa 7. 11▪ Math 1 Rom 1</note> scriptures of his sonne.</p>
+               <p>Iesus Christ is the lorde by whō we receaued grace</p>
+               <p>Christ is the mercy seate<note place="margin">Rom <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> through faith in his bloud.</p>
+               <p>Christ Iesu was gyuen for our synnes, and raised
+<pb facs="tcp:176774:24"/> vp for our righteousnesse,</p>
+               <p>Iustified throughe faithe<note place="margin">Rom. 5.</note> wee haue peace with God by our lorde Iesu Christe Christ is our atone maker<note place="margin">Rom. 5.</note> wee reioyce in the hope of the glory for to com whych god shall gyue vs.</p>
+            </div>
+            <div type="part">
+               <head>Christ died for vs.</head>
+               <p>
+                  <note place="margin">Rom. 5 Rom. 5</note>We wer reconciled vnto god by y<seg rend="sup">•</seg> death of his sōne: we reioyce in god through our Lorde Iesus Christ, by whom we haue receyued the atonment, we ar saued frō wrath by christ, we are made righteous throughe the bloud of Christ.</p>
+               <p>The rewarde of sinne is<note place="margin">Rom. 6</note>
+                  <pb n="23" facs="tcp:176774:24"/> death but the gift of god is euerlasting life, by Christe our Lord.</p>
+               <p>O wretched man that I<note place="margin">Rom. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> am, who shall delyuer mee from y<seg rend="sup">•</seg> body of this death? I thanke god through Iesu Christ our Lord.</p>
+               <p>There is no dampnation<note place="margin">Rom. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> vnto them that are in christ Iesu, which walk not after y<seg rend="sup">•</seg> flesh, but after the sprite: christ hath made me fre frō the law of sinne and death.</p>
+               <p>Christe is the ende of the<note place="margin">Rom. 10</note> lawe vnto ryghteousnesse: for euery one that beleueth whether we liue or dye, we<note place="margin">Rom. 14▪</note> are the Lordes.</p>
+               <pb facs="tcp:176774:25"/>
+               <p>To the Corinthians.</p>
+               <p>God is faithful by whom<note place="margin">i Cor 1</note> we are called vnto y<seg rend="sup">•</seg> felo<g ref="char:EOLhyphen"/>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pp of his sonne Iesus<note place="margin">i Cor 1</note> Christe.</p>
+               <p>Christe is our wisdom,<note place="margin">i Cor 3</note> righteousnes, sanctifienge and redemption</p>
+               <p>Other foundacion can no man lay, thē y<seg rend="sup">•</seg> which is layde: which is Christ. we are Godds labourers: ye are Gods husbandrye: ye are Gods buyldynge.</p>
+               <p>Christ our Ester lambe is<note place="margin">Cor 3</note> offered vp for vs.</p>
+               <p>Wee are washed, we are<note place="margin">i Cor 6</note> sanctified, we are iustified<note place="margin">i Cor 8</note> by our lord Iesus Christ.
+<pb n="24" facs="tcp:176774:25"/> There is but one god, euē the father by whom are all things, and our lord Iesu Christe, by whom are all thinges and wee by him.</p>
+               <p>Christ is y<seg rend="sup">e</seg> spirituall rocke<note place="margin">i Cor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of whom our fathers eate,<note place="margin">i Cor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and dranke of.</p>
+               <p>No man can saie y<seg rend="sup">•</seg> Christ is the lord, but by the holy ghoste.</p>
+               <p>Christ died for our sinnes,<note place="margin">Luke 24 Iohn 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> i Cor 3 i Cor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and was buried, and that he rose agayne the thirde daye, accordinge to the scriptures.</p>
+               <p>Christe is becom the first<note place="margin">i Cor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> fruyts of them that slepe, As al dye in Adam: so shall
+<pb facs="tcp:176774:26"/> be made aliue all in christ.<note place="margin">i. Cor. 15 Ose. xiii. 2. Cor. 1 2. Cor. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Iohn. iiii.</note>
+               </p>
+               <p>Agaynst sinne, deathe, hell, and the lawe thanks be to god christe is our vic<g ref="char:EOLhyphen"/>tory thankes be to god w<seg rend="sup">t</seg> geueth vs victorie, the lord is a spirit: and where the spirit of the lord is: there is libertie.</p>
+               <p>We beleue and therfore<note place="margin">2. Cor. 4</note> we speake, we knowe that he whiche raysed vp the lorde Iesus Christe shall rayse vs vp by the meanes of Iesu.</p>
+               <p>If any man be in Christ:<note place="margin">2. Cor. 5</note> he is a new creature, God hath lowed Christ to be the righteous sacrifice for our
+<pb n="25" facs="tcp:176774:26"/> sinnes.</p>
+               <p>Christ became pore, that<note place="margin">2 Cor 28</note> throughe his pouertye we might be made riche.</p>
+               <p>God is able to make you<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cor 9</note> riche in all grace.</p>
+               <p>Let hym that reioyseth,<note place="margin">2 Cor 11</note> reioyce in the Lord.</p>
+               <p>Christ gaue hym selfe for<note place="margin">Gala <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> our sinnes, that he myghte deliuer vs from this presēt euell worlde, we beleue to be made ryghteous by the<note place="margin">Gala 2</note> faith of Christe, and not by the deedes of the lawe, I caste not awaye the grace of God.</p>
+               <p>Christ hath deliuered vs<note place="margin">Gala. 3</note> from the cursse of the lawe
+<pb facs="tcp:176774:27"/> where he becam a cursse for vs.</p>
+               <p>Christ is y<seg rend="sup">e</seg> sede in whom<note place="margin">Gala 3 Gene 3 Gala 3</note> the Promyse was made.</p>
+               <p>Ye are all the children of god by faith in Iesu christ</p>
+               <p>We are y<seg rend="sup">e</seg> heires of God<note place="margin">Gala 4 Gala 5</note> throughe Christ, they that are Christs, haue crucified the fleshe with the lustes, and desyres.</p>
+               <p>God hath blessed vs in all<note place="margin">Ephe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> maner of spiritual thinges by our lorde Iesu Christ. In Christ we haue redēp<g ref="char:EOLhyphen"/>cion: &amp; through his bloude the forgyuenes of sinnes.</p>
+               <p>By Christ we are come to<note place="margin">Ephe 1</note> the inheritaunce, by grace
+<pb n="26" facs="tcp:176774:27"/> are we saued through faith<note place="margin">Ephe 2</note> in Christ: and not of works Wee are created in Iesu Christe vnto good workes, that wee shoulde walke in theēe. W were fare of, but<note place="margin">E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> nowe are we made nighe by the bloud of Christ.</p>
+               <p>God made al things thro<g ref="char:EOLhyphen"/>ughe<note place="margin">Ephe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> our lord Iesus christ</p>
+               <p>Christe came down into<note place="margin">Ephe 4</note> the lowest part of the earth</p>
+               <p>Let vs forgeue one an o<g ref="char:EOLhyphen"/>ther,<note place="margin">Ephe 4</note> as god hath forgiuen vs in Christe Iesu.</p>
+               <p>Christe is the hed of the<note place="margin">Ephe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> congregacion, let al tongs confesse that Iesu Christ is the lord, vnto the prayse
+<pb facs="tcp:176774:28"/> of the father.</p>
+               <p>I counte all thynges lost<note place="margin">Phil. iii</note> for Christes sake.</p>
+               <p>Kepe your harts &amp; minds<note place="margin">Phil. i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i</note> in Iesu Christ</p>
+               <p>Christ is the image of the<note place="margin">Colos. i</note> inu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sible God, firste begot<g ref="char:EOLhyphen"/>ten before all creatures.</p>
+               <p>By Christe all thinges<note place="margin">Colos. i</note> were created bothe things in heauen and earthe, and in him al things haue their beinges.</p>
+               <p>Christ is our richesse. In<note place="margin">Colos. ii</note> Christ is hidde all the trea<g ref="char:EOLhyphen"/>sures of wisdom and know ledge.</p>
+               <p>As ye haue receiued Christ<note place="margin">Colos. ii Colos. ii</note> Iesu the lord, euen so walk
+<pb n="27" facs="tcp:176774:28"/> in hym wyth geuynge of thankes.</p>
+               <p>Seke those thynges that<note place="margin">Colos. iii</note> are aboue where Christe is sittinge on the right hande of god.</p>
+               <p>Whatsoeuer ye do in word<note place="margin">Colos. i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> or work, do all in the name of our Lord Iesu Christ, &amp; geuinge thankes vnto god the father by him.</p>
+               <p>In christ dwelleth all the<note place="margin">Colos. ii</note> fulnesse of the godhead bo<g ref="char:EOLhyphen"/>dely. Christ our lord is our hope. Christ hath deliuered vs from the wrath to come. We optayne saluation by the meanes of Iesu Christ<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Thes. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> our Lord.</p>
+               <pb facs="tcp:176774:29"/>
+               <p>I cam into the world to<note place="margin">Luke 9</note> saue that was loste (saieth Christe) for this is a true<note place="margin">i Tim 1</note> saienge and by al meanes worthy to be receiued, that Christ Iesus came into the worlde to saue sinners.</p>
+               <p>Christ is the only medy<g ref="char:EOLhyphen"/>atour<note place="margin">i Tim 2</note> betwene god and vs. He hath gyuen him self a raunsom for all men.</p>
+               <p>Christ hath taken away<note place="margin">2 Tim 1</note> the power of deathe: and brought life and immorta<g ref="char:EOLhyphen"/>lity.<note place="margin">Tim <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> GOD was shewed in the fleshe, he was Iusti<g ref="char:EOLhyphen"/>fied in the spirite, was sene of angels, was preched vn to the heathē, was beleued
+<pb n="28" facs="tcp:176774:29"/> in the world, was receyued<note place="margin">i Tim <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> vp in glory. Iesus Christe being of y<seg rend="sup">•</seg> seede of Dauid, rose again from the dead, accordynge to my gospell. If wee deny hym, he will deny vs.</p>
+               <p>Christ shal come to iudge<note place="margin">i Tim 24</note> the liuyng, and the dead.</p>
+               <p>God hath purged vs a<note place="margin">2 Timo 1</note> peculier p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople vnto hym selfe. Christ hath saued vs accordyng to his mercy.</p>
+               <p>Christ hath sprinkled vs<note place="margin">i Peter 2</note> with his bloud. Christ hath redemed vs with his bloud</p>
+               <p>By Christ wee obtaine<note place="margin">Peter 1</note> mercy, Christ is the bishop &amp; shepherd of our soules.
+<pb facs="tcp:176774:30"/> I haue geuen my lyfe for<note place="margin">Iohn 10</note> my shepe, saithe Christe, h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bare our sinnes in his bodi vpō the tre, that we should be saued from synne.</p>
+               <p>Christ hath ones suffred<note place="margin">i Peter 2</note> for oure sinnes to bring vs to god.</p>
+               <p>Christ was slain after the<note place="margin">1 Peter 3</note> fleshe: but quickened after the spirite.</p>
+               <p>Wee loue, and beleue in<note place="margin">i. Peter. i Iohn 20</note> Christ Iesu, though we see him not.</p>
+               <p>Christ hath clensed vs frō<note place="margin">i. Iohn 1</note> al sinnes in his own bloud.</p>
+               <p>If we knowledge oure<note place="margin">i. Iohn i</note> synnes, he is faythfull and iust to forgeue vs our sins.</p>
+               <pb n="29" facs="tcp:176774:30"/>
+               <p>Christe appeared to take<note place="margin">1. Iohn. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> away our synnes.</p>
+               <p>Christe the sonne of god<note place="margin">1. Iohn. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> appeared to lose the bands of the Deuil.</p>
+               <p>God loued vs: &amp; hath sent his son into this world that we might liue through him</p>
+               <p>Christ hathe made the a<g ref="char:EOLhyphen"/>grement<note place="margin">1. Iohn. 4</note> for our sinnes.</p>
+               <p>It is the spirit of god that<note place="margin">1. Iohn. 4</note> confesseth Christe to come in the flesh.</p>
+               <p>It is y<seg rend="sup">•</seg> spirit of error y<seg rend="sup">•</seg> de<g ref="char:EOLunhyphen"/>nieth<note place="margin">1 Iohn. 4</note> christ to com in y<seg rend="sup">e</seg> flesh</p>
+               <p>We know that the sonne<note place="margin">1. Iohn. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of God is come▪ and that he hathe geuen vs a mynde to know him, which is true
+<pb facs="tcp:176774:31"/> God hath spoken vnto vs<note place="margin">Heb 2</note> by hys sonne, whom hee hath made heire of all thinges, by whom also hee made the world.</p>
+               <p>Hee hath purged vs from<note place="margin">Heb 2</note> all sinnes in hys owne per<g ref="char:EOLhyphen"/>sonne, and nowe sitteth on the high maiesty.<note place="margin">Heb <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>He hath tasted death for all men.</p>
+               <p>The sonne of God shalbe<note place="margin">Esa <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Heb 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heb 7</note> our sauiour, hee is the high priest of our profession, hee is the priest euerlastyng, &amp; therefore he is able to saue euer all that come to God by hym, he liueth euer and<note place="margin">Heb 7</note> maketh intercessiō for vs,
+<pb n="30" facs="tcp:176774:31"/> he hath promysed to write<note place="margin">Heb <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> his lawe in our hartes, and he wil be our god, and wee shalbe hys people</p>
+               <p>He wilbe mercyful vnto<note place="margin">Heb 9</note> our sinnes.</p>
+               <p>Without bloudshedynge<note place="margin">Heb 9 Iohn 16</note> is no remyshion</p>
+               <p>Christ hath apeared once<note place="margin">Heb 9</note> to put sinne to flyghte, by the offerynge vp of hym self.</p>
+               <p>We are saued, and made<note place="margin">Heb 10</note> righteous by the offerynge vp of y<seg rend="sup">e</seg> body of christ for al.</p>
+               <p>He is the mediator of the<note place="margin">Heb 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> new testament.</p>
+               <p>Therefore, by him let vs<note place="margin">Heb 4. 13</note> offer vp alwaye vnto God,
+<pb facs="tcp:176774:32"/> the sacrifice of prayse: that is to saye: the frute of those lippes whiche confesse hys holy name, and to do good vnto all people: wyth suche sacrifices god is plesed.</p>
+               <p>If ye will haue wisdom,<note place="margin">Iacob. 12</note> aske it of god.</p>
+               <p>God hath chosen the pore<note place="margin">Iacob. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of thys worlde: whyche hee hath made rich in faith and heirs of the kīgdom, which he promised vnto thē that loue him.</p>
+               <p>Christ loued vs, and wa<g ref="char:EOLhyphen"/>shed<note place="margin">Apoca. i</note> shed our sinns away in his own bloud.</p>
+               <p>He is the first and the last<note place="margin">Apoca. i</note> of our saluation.</p>
+               <pb n="31" facs="tcp:176774:32"/>
+               <p>I was dead, and am a liue<note place="margin">Apo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> for euermore saith he.</p>
+               <p>I haue the key of hel and death.</p>
+               <p>Whiche openeth, and no<note place="margin">Apo. xiii</note> man shutteth: a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> shutteth and no man openeth. Hee is the kinge of all kynges, and Lorde of all Lordes, which only hath immorta<g ref="char:EOLhyphen"/>lity, to whome with the fa<g ref="char:EOLhyphen"/>ther and the holy ghoste be all honoure and glorye for euer and euer. Amen.</p>
+            </div>
+            <div type="prayer">
+               <head>The prayer.</head>
+               <p>O Most mercifull god &amp; louing Father I be<g ref="char:EOLhyphen"/>sech
+<pb facs="tcp:176774:33"/> thee for thy sonne Christes sake graunte mee to court with prudent mynd, those thinges which may please thee. To serch theē wisely, to know thē truly, &amp; to ful<g ref="char:EOLhyphen"/>fil thē perfitly to y<seg rend="sup">•</seg> laude &amp; glory of thy name: Order my liuing so, y<seg rend="sup">e</seg> I may do y<seg rend="sup">•</seg> which y<seg rend="sup">u</seg> requirest of mee. And giue mee grace that I may knowe it, &amp; haue wil &amp; power to do it. And that I may obtaine those thinges which be most conuenient for my saluation. O good Lord make my wayes sure &amp; streight to thee, y<seg rend="sup">e</seg> I falle not by aduersity, or po<g ref="char:EOLhyphen"/>uerty.
+<pb n="32" facs="tcp:176774:33"/> But heauenly father that art only the rich God, vouchsafe to geue me al<g ref="char:EOLhyphen"/>wayes sufficient being for my soule, &amp; body, &amp; for all my houshold that thou hast geuen mee. And geue mee grace euer to reioyce in thee, &amp; that I may neuer sorowe for nothing, but for those thinges y<seg rend="sup">e</seg> drawe mee from thee. Iet all worldly thinges be vile vnto me for the. And be y<seg rend="sup">u</seg> good lord my special cōfort aboue thē al, set me not be mery with y<seg rend="sup">e</seg> loye y<seg rend="sup">e</seg> is w<seg rend="sup">t</seg> out the. And let mee desire nothing besides thee, let that labour delite
+<pb facs="tcp:176774:34"/> mee which is for thee. And let all the reast wearye me which is not in thee, make me to lyfte my harte often times to thee. And when I fall, make mee to thyncke on thee with a stedfast pur<g ref="char:EOLunhyphen"/>pose of amendemente. O my God make me humble withoute fayninge: merye withoute lightenesse: sadde withoute mistruste, sober without dulnesse: true with out doublenes: fering thee wythoute desperation, tru<g ref="char:EOLhyphen"/>stinge in thee without pre<g ref="char:EOLhyphen"/>sumption: Telling my nei<g ref="char:EOLhyphen"/>boures faults without dis<g ref="char:EOLhyphen"/>simulation, teachinge them
+<pb n="33" facs="tcp:176774:34"/> with wordes &amp; examples<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without any mocking, pa<g ref="char:EOLhyphen"/>cient without any grud<g ref="char:EOLhyphen"/>gyng, &amp; pure without cor<g ref="char:EOLunhyphen"/>ruptiō, perfit wil to know thee, diligēt to seeke thee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> contricion to please thee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; finally, hope to embrace thee, O father for the pre<g ref="char:EOLhyphen"/>cious merits of thy sonne graunte, and geue it mee. Amen.</p>
+            </div>
+            <div type="prayer">
+               <head>¶ The prayer of our Lord.</head>
+               <q>OVr Father which art in heauen, halowed be thy name.</q>
+               <p>O Lord god our heauen<g ref="char:EOLhyphen"/>ly<note place="margin">E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> father, which art in
+<pb facs="tcp:176774:35"/> heauen, in thy sempiternal glory: vouchsafe to loke v<g ref="char:EOLhyphen"/>pō vs with the eies of mer<g ref="char:EOLunhyphen"/>cy for we are all wretched by nature.</p>
+               <q>Thy kyngdome come.</q>
+               <p>O Father, thys worldlye lyfe is the kingdom of all wretchednesse, sorows, care and calamitie. Ther<g ref="char:EOLhyphen"/>fore<note place="margin">Apo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> deare Father powre forth thy holy spirit vppon vs, to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eare vs a newe in<g ref="char:EOLhyphen"/>to thy heauenly kingdome to doo thy will, to thy ho<g ref="char:EOLhyphen"/>noure and glorye for euer and euer.</p>
+               <q>Thy wll be don in earth as it is in heauen.</q>
+               <pb n="34" facs="tcp:176774:35"/>
+               <p>O Lord, god our father, thy wil is best: therfore euer do thy wil in vs, kepe vs from that horible sinne of swearyng: cursinge: &amp; grutchinge: and mollifie our hard hartes with thy<note place="margin">Iohn 3</note> grace, that wee may doo thy wil at al times in this world, to thy honour.</p>
+               <q>Geue vs this day our dayly breade.</q>
+               <p>O Lord, god, our father,<note place="margin">Iohn 9</note> geu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vs thy sonne Ie<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> christ through the holy ghost to our saluacion, his <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ssion, death, and resur<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tion alwaies written in our hartes, with thankes
+<pb facs="tcp:176774:36"/> geuyng, and geue vs euer<note place="margin">Matth 6</note> sufficient liuynge for our bodies.</p>
+               <q>Forgyue vs our treaspasses, as we forgeue them that trespasseth, agaynst vs.</q>
+               <p>O Lorde God our father haue mercy vpon vs, enlarge thy holy grace, in<note place="margin">Mat 7</note> vs that we may gladly for<g ref="char:EOLhyphen"/>geue al our offenders: that we may haue remyssion of thee.</p>
+               <q>And let vs not be led into temp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acion.</q>
+               <p>O Lorde God our father, wee knowledge to the our weaknes &amp; our infirmi<g ref="char:EOLunhyphen"/>ties: therfore haue mercy
+<pb n="35" facs="tcp:176774:36"/> vppon vs, and deliuer vs<note place="margin">Gala <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> frō all temptacions of the deuyll and the fleshe.</p>
+               <q>But deliuer vs from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uyll.</q>
+               <p>O Lord, God our father, I beseche thee for thy sonne Christes sake, haue mercy vpon me, and vpon all people that do call to thee. Kepe, and defend our bodyes, and soules, from sinne, Hell, death, and dampnacyon, and brynge vs into euerlastyng life, in ioye, and glorye throughe the merites of thy sonne Iesus Christe our Lorde Amen.</p>
+            </div>
+            <div type="prayer">
+               <head>The salutacion euer to God.</head>
+               <pb facs="tcp:176774:37"/>
+               <p>HAyle our Father, God almyghtie, full of all grace, mercy and comforte.<note place="margin">Act 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>Thy sonne Iesu Chr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ste very God, and mā, is w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th thee in heauen.</p>
+               <p>Blessed bee thy name O father, bothe in heauen a<g ref="char:EOLhyphen"/>boue, &amp; in earth amongest all nacions, by thy onely sonne our Lord.</p>
+               <p>And Lord God holy ghost, haue mercy vpon me: And worke alwaye thy diuine power in me, right faithe, hope, and charitie, &amp; frute<g ref="char:EOLhyphen"/>ful in al good workes, and saued, by y<seg rend="sup">•</seg> merites of Iesu
+<pb n="38" facs="tcp:176774:37"/> Christe. Amen,</p>
+            </div>
+            <div type="prayer">
+               <head>An nother salutacion vnto Christe.</head>
+               <p>HAil Iesu Christ, thou only sōne of god, the euerlasting father. Hayle Iesu Christe, by<note place="margin">Iohn 1</note> whom al things wer crea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed and made, both in hea<g ref="char:EOLhyphen"/>uen and earth.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud in whom all. things<note place="margin">Col 2</note> haue their beings.</p>
+               <p>Hayle Iesu Christe, the<note place="margin">Gene;</note> seede of the womanne that treadeth downe the head of sathan, the spouse of my soule most good and graci<g ref="char:EOLhyphen"/>ous,</p>
+               <pb facs="tcp:176774:38"/>
+               <p>Hayle Iesu Christe the Prophecy of the prophets<note place="margin">Esay. 53▪</note> moste desirable.</p>
+               <p>Hayle Iesu Christe, the<note place="margin">Luke. 12.</note> sonne of Mary the virgin, most gloryous.<note place="margin">Iohn 2</note>
+               </p>
+               <p>Hayle Iesu Christe our<note place="margin">i Titus 2</note> only mediator, and frende moste surest.<note place="margin">i Titus 6</note>
+               </p>
+               <p>Hayle Iesu Christ, king of al Kinges, and lorde of al lords, and god immortal most mightie.</p>
+               <p>Hayle Iesu Christ, king of angels, our lord and sa<g ref="char:EOLhyphen"/>uior<note place="margin">Heb 1</note> moste perfite.</p>
+               <p>Hayle Iesu Christe, our<note place="margin">Cor 15 Oze 1</note> only victory, agaynst sine, death, &amp; Hel, most valiāte.</p>
+               <pb n="37" facs="tcp:176774:38"/>
+               <p>Hayle Iesu Christe the teacher of thapostles, most wisest and the comforter, of the martyrs most vali<g ref="char:EOLhyphen"/>aunte: Haue mercy vpon me, O sweete Iesu Christ my lorde, receyue my bo<g ref="char:EOLhyphen"/>dye and soule into thy han<g ref="char:EOLhyphen"/>de, and forgeue me all my sinnes, O lorde Christe, thou haste redemed me, O Iesu that art in heauē, ve<g ref="char:EOLhyphen"/>ry god and man, haue mer<g ref="char:EOLunhyphen"/>cye vpon me and saue me. Amen.</p>
+            </div>
+            <div type="prayer">
+               <p>O Benygne Father of heauen, god of con<g ref="char:EOLhyphen"/>solacion, haue mer<g ref="char:EOLhyphen"/>ci
+<pb facs="tcp:176774:39"/> vpon mee for thy sonne Christs sake: and with thy holy spirit illumynate my hearte, soule, and minde: then shal my mouth shewe forth thy prayse.</p>
+               <p>Thy will to do, god bende thy self into my helpe, that I maye loue thee aboue al things, and lord haste thee to helpe me.</p>
+               <p>Glory be to the father,<note place="margin">Matth 28</note> to the sonne, and to the ho<g ref="char:EOLhyphen"/>ly ghost.</p>
+               <p>As it was in the begin<g ref="char:EOLhyphen"/>ning, is now and euer shal be. So be it.</p>
+               <p>The Inuocation.</p>
+               <p>Lord haue mercy.</p>
+            </div>
+            <div type="section">
+               <pb n="36" facs="tcp:176774:39"/>
+               <p>GOd is agreat Lord, and agreat Kinge, al mighty, al merci<g ref="char:EOLhyphen"/>full, all good, and true, he is a liuinge God, &amp; a mer<g ref="char:EOLhyphen"/>cifull father.</p>
+               <q>Lorde God father haue mrecy vpon mee.</q>
+               <p>God so loued the worlde,<note place="margin">Iohn 3</note> that he gaue hys onely be gotten sonne, that who<g ref="char:EOLhyphen"/>soeuer beleuethe in hym, shoulde not perishe, but haue euerlasting lyfe.</p>
+               <q>Sonne of God haue mercy vpon mee.</q>
+               <p>In this apeareth y<seg rend="sup">•</seg> loue<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Joh 4</note> of God to vs ward, not that wee loued God, but
+<pb facs="tcp:176774:40"/> God loued vs, because hee sent his onely sonne into this worlde, that we might lyue throughe him.</p>
+               <q>Father of heauen haue mercy vpon me</q>
+               <p>IF God bee on our side,<note place="margin">Rom 8</note> who can be against vs, the whiche spared not his owne sonne, but gaue him for vs all, howe shal not he with him geue vs al things also.</p>
+               <q>Sonne of God haue mercy vpon me.</q>
+               <p>WE are wasshed, we<note place="margin">1 Cor 5</note> are sanctified, we are redemed and made righ<g ref="char:EOLhyphen"/>teous, throughe our Lorde
+<pb n="39" facs="tcp:176774:40"/> Iesus Christ.</p>
+               <p>Glory be to the father &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem.</head>
+               <p>GOd loued mann so ten<g ref="char:EOLhyphen"/>verlye,<note place="margin">John <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> that he gaue his onlye sonn: vppon him he tooke our humanitie, to be our full r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>demption.</p>
+               <p>Glory be to god, the eter<g ref="char:EOLhyphen"/>nall father.</p>
+               <p>Glory to his sonne oure only mediator.</p>
+               <p>Glory to the holy ghoste our comfortor.</p>
+               <p>Glory to the trinitye the true god and sauiour.</p>
+            </div>
+            <div type="hymn">
+               <head>The hymme.</head>
+               <p>The mercy that &amp;c.<note place="margin">Eccl 13</note>
+               </p>
+            </div>
+            <div type="Psalm">
+               <head>The psalme.</head>
+               <pb facs="tcp:176774:41"/>
+               <p>O Lord Iesu Christ the sonne of God, thou anoynted kyng ouer Syon, he are me, and haue mercy vpon me.</p>
+               <p>Thou arte my glorye O, Lord Christe, saue me for thy names sake, delyuer me by thy power.</p>
+               <p>Healthe, and saluacion is thine, therfore power forthe thy mercy vpon thy people.</p>
+               <p>Oure fathers trusted in thee, and thou del<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uredest them, O lorde Christ, and trust is in thee, O lord saue thou me,</p>
+               <p>O lord let thy mercy and
+<pb n="40" facs="tcp:176774:41"/> gentlenesse followe me all the daies of my life. Glory be to &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem</head>
+               <p>THe mercye that a man hath is to his neighbor but the mercy of god is v<g ref="char:EOLhyphen"/>pon all flesh.</p>
+               <p>Thanks be to god.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem</head>
+               <q>Eyes haue not &amp;c.</q>
+               <p>O Lorde god of powers, who may be compared vnto thee, in maiesty, faith and truth, wherwith thou art assisted on euery side.</p>
+               <p>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue mercy vppon me O lord, accordyng to that great merci of thine which
+<pb facs="tcp:176774:42"/> is infinitie.</p>
+               <p>O Lord refresh my soule and dyrecte my lyfe in the right way, graūt it me for thy righteousnes.</p>
+               <p>Inducte and teach me thy trueth, I am willing to be thy seruaunt.</p>
+               <p>O lorde forsake not mee thine image &amp; handy work good lorde forgeue me all my sinnes: lorde my truste is in thee, let me neuer be asshamed: but haue mercy vpon me and saue me.</p>
+               <p>Glory be &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem.</head>
+               <p>EYes hath not sene, ney<g ref="char:EOLhyphen"/>ther cares hathe not
+<pb n="41" facs="tcp:176774:42"/> heard the glorye that God hath appoynted for all that loue him.</p>
+               <p>Thankes be to God.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem.</head>
+               <q>He hath &amp;c.</q>
+               <p>O Lorde Iesus Christe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <note place="margin">Esay. 5<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> sprinckle thou me with the holy ghoste, that sweet ysop of grace.</p>
+               <p>O create in mee a newe harte, and a right spirite, to laud, and prayse thee, O loord, God.</p>
+               <p>O Lord, tourn me whole to thee, take my sinnes a<g ref="char:EOLhyphen"/>waye▪ O lambe of God.</p>
+               <p>Heale mee O lorde and I shal be whole, saue thow
+<pb facs="tcp:176774:43"/> me good lord, and I shalbe saued, thou arte my prayse in whome I hope, Iesus Christ my rocke of stone.</p>
+               <p>Glory be &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem.</head>
+               <p>HE hath taken vppon<note place="margin">Esaye 53</note> him our diseases, and wounded for our offē<g ref="char:EOLunhyphen"/>ces, &amp; through him the lord pardoneth all our sinnes.</p>
+            </div>
+            <div type="answer">
+               <head>The aunswere</head>
+               <p>THis is the ston refused<note place="margin">Act 4</note> of you builders, the which is becom the hed cor<g ref="char:EOLunhyphen"/>ner stone. Neither is there saluation in any other. Ne<g ref="char:EOLunhyphen"/>ther any other name geuē wherin we must be saued.
+<pb n="42" facs="tcp:176774:43"/> Thankes be to God.</p>
+               <p>The Prayer.</p>
+               <p>Our father &amp;c.</p>
+               <p>The versicle.</p>
+               <p>Lorde let vs not be led into temptacion</p>
+               <p>Answer.</p>
+               <p>But deliuer vs from al euyl. Amen.</p>
+            </div>
+            <div type="blessing">
+               <head>The blessyng.</head>
+               <p>OURE father for thy<note place="margin">Iohn 11</note> sonne Christes sake, baptyse vs wyth thy holy ghost, that we may be children of the kyngdome of thy sonne.</p>
+               <q>The lesson, and sum of our true faith.</q>
+            </div>
+            <div type="lesson">
+               <head>The lesson.</head>
+               <pb facs="tcp:176774:44"/>
+               <p>FOr ther is no mā made righteous in y<seg rend="sup">e</seg> sight of God, by the dedes of the law. For if righteousnesse came by the dedes of the lawe, then died Christe in vaine.</p>
+            </div>
+            <div type="answer">
+               <head>The answere</head>
+               <p>CHrist, thou sōn of God, thou bishop, &amp; shepherd of our soules, haue mercy vpon vs</p>
+            </div>
+            <div type="petition">
+               <head>The peticion</head>
+               <p>For without deseruynge are wee made righte<g ref="char:EOLhyphen"/>ous, euen by his grace throughe the redemption that is done by Christ Ie<g ref="char:EOLhyphen"/>su the lambe vndefiled, the
+<pb n="43" facs="tcp:176774:44"/> which was ord<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed before the world was made, that we should be saued by him</p>
+            </div>
+            <div type="chapter">
+               <head>The Chapiter.</head>
+               <p>HE is the end of the lawe<note place="margin">Rom 10</note> vnto righteousnesse, for euery one that beleueth.</p>
+            </div>
+            <div type="conclusion">
+               <head>The conclusion.</head>
+               <p>WE are redemed, and<note place="margin">Iohn 19 Heb 9. 10</note> made ryghteous, by the offering vp of the bo<g ref="char:EOLhyphen"/>dy &amp; bloud of Christe once for all.</p>
+               <p>Glorye be to the father, and to the sonne and to the holy ghost. &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The anthem</head>
+               <p>BY Christe wee haue re<g ref="char:EOLhyphen"/>dēption,<note place="margin">Ephe <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> &amp; throughe hys
+<pb facs="tcp:176774:45"/> bloude, the redemption for our sinnes.</p>
+               <p>Thankes bee vnto God the Father, the sonne, and the holye ghoste, in whose name we were baptised.</p>
+               <p>WE thanke thee God<note place="margin">Matth 28</note> the eternal father the creatour of heauen &amp; earth we worship thee lord Iesu Christe sonne of god, by whom all thynges were created and made.</p>
+               <p>Thou arte the kynge of glory O lorde Christ, thou arte the light and lyfe of men.</p>
+               <p>Thou tookest not disdain
+<pb n="44" facs="tcp:176774:45"/> to take vpon thee our na<g ref="char:EOLhyphen"/>ture, to saue &amp; de yuer vs from sinne, death, hel: and dampnacion.</p>
+               <p>Thou arte the only me<g ref="char:EOLhyphen"/>diator, betwene the father and vs for our saluacion.</p>
+               <p>Thou arte the onlye saui<g ref="char:EOLhyphen"/>or of the people, thou haste bought vs with thy preci<g ref="char:EOLhyphen"/>ous bloud O Christ.</p>
+               <p>Thou haste made the sa<g ref="char:EOLhyphen"/>tisfaction for vs &amp; our sīns, in offering vp of thy bodye once for all.</p>
+               <p>O lorde Christe, thou<note place="margin">i Cor 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> diedst for vs &amp; our sinns, and waste buried, and rose again the third daye accor<g ref="char:EOLhyphen"/>dyng
+<pb facs="tcp:176774:46"/> to the scripturs.</p>
+               <p>Thou ascendedst vp into heauē very God, and man, and sittest on y<seg rend="sup">•</seg> right hand of God in the glory of the Father.</p>
+               <p>Thou arte our aduocate, thou arte righteous, thou obtaynes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e grace for our sinnes▪</p>
+               <p>Thou art our Priest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, thou arte the mercy seate, through faith in thy bloud.</p>
+               <p>Heauen and earth is ful<g ref="char:EOLhyphen"/>filled, with thy grace, and mercy.</p>
+               <p>Al the Angels of God do worship, and praise thee.</p>
+               <p>Saying, holye arte thou
+<pb n="45" facs="tcp:176774:46"/> sonne of God.</p>
+               <p>Holy arte thou lambe of God whiche was killed, &amp; arte alyue.</p>
+               <p>Holye arte thou whiche<note place="margin">Apo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> was, is, and is to come.</p>
+               <p>All the Apostles doo con<g ref="char:EOLhyphen"/>fesse<note place="margin">Act 4</note> thee to be the onelye sauiour of the worlde, O Lorde Christe.</p>
+               <p>And all the holy Pro<g ref="char:EOLhyphen"/>phets,<note place="margin">Esay <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Prophecied in thee to be saued, and in none other,</p>
+               <p>All the martires trust in<note place="margin">Act 1. 7. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Esay <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> thee to be saued, and con<g ref="char:EOLhyphen"/>fessed thee to be in heauen very God and man, and not in temples made with
+<pb facs="tcp:176774:47"/> handes.<note place="margin">Act 10</note>
+               </p>
+               <p>And faithful people trust in thee to besaued O lorde Iesu Christ.</p>
+               <p>We beleue that thou shalt<note place="margin">Matth 24 Iohn 11</note> come to be our iudge.</p>
+               <p>Therfore wee beseeche thee to shewe thy merciful kindnesse vpon all people that truste in thee to be sa<g ref="char:EOLhyphen"/>ued.</p>
+               <p>O lord make them to be numbred with thy saints in ioye and blysse euerla<g ref="char:EOLhyphen"/>sting.</p>
+               <p>O lorde Iesus, lette not<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Peter 1</note> sinnes lose me, whom thou haste bought with thy pre<g ref="char:EOLhyphen"/>tious bloud.</p>
+               <pb n="46" facs="tcp:176774:47"/>
+               <p>O Lorde God thou holye ghoste, haue mercye vpon me, and worke thy deuine<note place="margin">Act 17.</note> grace in me, so that I may be saued, through our lorde Iesu Christ.</p>
+               <p>O lorde Iesu Christ that<note place="margin">Psa;</note> art in heauen very god and man, our euerlasting priest and iudge, haue mercy vp<g ref="char:EOLhyphen"/>pon me.</p>
+            </div>
+            <div type="hymn">
+               <head>The Anthem.</head>
+               <p>OVR conuersacion is in heauen, from whence we loke for the sauior Iesu Christe the lorde: whyche shal chaung our vile body, that it may be lyke fashio<g ref="char:EOLhyphen"/>ned vnto hys glorious bo<g ref="char:EOLhyphen"/>dy,
+<pb facs="tcp:176774:48"/> accordyng, wherebye hee is able too subdue all things vnto him self.</p>
+            </div>
+            <div type="thanks">
+               <head>The thankes and prayse</head>
+               <p>Praise the Lord of heauē my soule, all the secret powers of my hart, geue thou thankes vnto the lord</p>
+               <p>My soule magnyfy thou the Lorde: and forget not so mani his great benifits.</p>
+               <p>The whiche forgeueth thee al thy sinns, &amp; healeth all thyne Infirmyties.</p>
+               <p>Blessed is the man to whome the lord pardoneth sinnes.</p>
+               <p>Glory be to the father &amp; to the sonne &amp;c.</p>
+               <pb n="47" facs="tcp:176774:48"/>
+               <p>THe Lorde our God is<note place="margin">Ioel▪</note> gracious &amp; mercifull: hee is of greate compassi<g ref="char:EOLhyphen"/>on, longe suffering, and redy to pardō wickednesse</p>
+               <q>Thankes be to God.</q>
+               <p>THankes be euer vnto the lorde our God, the which is euer more m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lde, and mercifull.</p>
+               <p>Thankes be euer vnto the lord our God, y<seg rend="sup">•</seg> which vnto vs is a sauiour, by whom wee escape y<seg rend="sup">•</seg> death. O lord h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue mercy vpon vs and be gracyous vnto vs, that thy worde, and will, might be knowne, &amp; do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, in all the worlde.
+<pb facs="tcp:176774:49"/> Glory be to the &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The Anthem.</head>
+               <p>BLessed be God, &amp; the<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Peter. 1</note> father of our lord Ie<g ref="char:EOLhyphen"/>su Christ, which accor<g ref="char:EOLunhyphen"/>dinge to his great mercye, hath begotten vs again vn<g ref="char:EOLunhyphen"/>to a liuelye hope, by the re<g ref="char:EOLhyphen"/>surrection of Iesu Christe for euer.</p>
+               <q>Thankes be to God.</q>
+               <p>PRayse be euer vnto the lord our God, whych is God of all gods.</p>
+               <q>His mercy is euerlasting.</q>
+               <p>VVHyche created all thynges wyth hys worde</p>
+               <pb n="48" facs="tcp:176774:49"/>
+               <q>His mercy is euerlasting.</q>
+               <p>WHiche created Adam vnto his Image and lykenesse, and gaue in him the spirit of life.</p>
+               <q>His mercy is euerlasting.</q>
+               <p>WHyche doeth greate thynges for the plea<g ref="char:EOLhyphen"/>sure of Adam and his poste<g ref="char:EOLunhyphen"/>ritye.</p>
+               <q>His mercy is euerlasting</q>
+               <p>VVhyche hathe sente re<g ref="char:EOLhyphen"/>demption vnto his peo<g ref="char:EOLunhyphen"/>ple.</p>
+               <q>His mercy is euerlasting.</q>
+               <p>VVhiche geueth life &amp; foode to euery crea<g ref="char:EOLhyphen"/>ture.</p>
+               <q>His mercy is euerlasting.</q>
+               <pb facs="tcp:176774:50"/>
+               <p>WHich helpeth vs, and deliuereth, vs from sinne, death &amp; hel, &amp; geueth vs lyfe &amp; redemption.</p>
+               <q>His mer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y is euerlastyng</q>
+               <p>WHiche pardoneth all our sinnes, &amp; healeth all our diseases, of soule and bodye, and none but hee, whose mercy is euer<g ref="char:EOLhyphen"/>lasting.</p>
+               <p>Praise bee vnto the lord our God, his merciful bles<g ref="char:EOLunhyphen"/>singe is spred ouer vs, his true promises stande for euer.</p>
+               <p>Praise the lorde, all ye Angelles, magnify him all ye heau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns.</p>
+               <pb n="49" facs="tcp:176774:50"/>
+               <p>Prayse the Lorde all his workes, in euery where of his domynyon.</p>
+               <p>O ye kyngs, and Princes of the earth, ye rulers and all people, praise ye the holy name of the Lorde.</p>
+               <p>The lyuinge God onely is worthy alwayes to bee praysed, and magnyfie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worlde without end.</p>
+               <p>Glory be to the father &amp; to the sonne &amp;c.</p>
+            </div>
+            <div type="hymn">
+               <head>The Anthem.</head>
+               <p>WE optayne saluacion by y<seg rend="sup">•</seg> meanes of Iesu Christ our Lord.</p>
+               <p>Thankes he to God.</p>
+            </div>
+            <div type="verse">
+               <head>The verse</head>
+               <pb facs="tcp:176774:51"/>
+               <p>O Father for thy sonne Christes sake, heare my prayer.</p>
+            </div>
+            <div type="answer">
+               <head>The aunswere</head>
+               <p>And graunt me my desier</p>
+            </div>
+            <div type="prayer">
+               <head>The prayer</head>
+               <p>O Lrd God, our mer<g ref="char:EOLhyphen"/>ciful father: I poore wretched siner, come vnto thee in the name of thy dearly beloued sonne Iesu Christe, besechynge thee for his sake take mer<g ref="char:EOLhyphen"/>cy, pyty, and compassion vpon me, and caste all my synnes out of thy syght, and saue mee, thorow the merits of thy sonne: which reigneth god with thee, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="50" facs="tcp:176774:51"/> wyth the holye ghoste in glory for euer. Amen.</p>
+            </div>
+            <div type="prayer">
+               <head>An other prayer.</head>
+               <p>O Lorde God our father, whiche hast loued vs &amp; gyuen vs euerlastyng con<g ref="char:EOLhyphen"/>solaciō, in good hope, thro<g ref="char:EOLhyphen"/>ughe faith in Iesu Christ, for whose sake, father I be<g ref="char:EOLhyphen"/>seche thee gyue al the pro<g ref="char:EOLhyphen"/>fessours of thy gospel, thy holye spirite to leade and gouerne vs to thy honour and glory, and to be saued through the merites of thy sonne Iesus Christe, our mediatour and aduocate. Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:176774:52"/>
+               <head>An nother prayer.</head>
+               <p>LOrde God, father al<g ref="char:EOLhyphen"/>myghtye, God of all grace, mercy and cō<g ref="char:EOLhyphen"/>forte, I wretched sinner be seche thee for thy sōn christ sake: haue mercy vpon me, and geue thy holye aungel charge ouer mee, to keepe and defende my bodye and soule from all myne enne<g ref="char:EOLhyphen"/>myes: &amp; geue me alwayee a plenteous lyuing for me and all my housholde, and be saued through y<seg rend="sup">•</seg> merits of Iesu Christe. Amen.</p>
+               <q>O lord haue mercy vpon all people.</q>
+            </div>
+            <div type="prayer">
+               <pb n="51" facs="tcp:176774:52"/>
+               <head>An nother prayer.</head>
+               <p>O Father, of our lorde Iesus Christe, father of mercye, and God of my life: I beseeche thee for thy sonne Christes sake haue mercy vpon mee, and vpon the housholde that thou haste geuen mee: and poure thy wholsome bene<g ref="char:EOLhyphen"/>fites vpon vs sufficientlye for oure lyuinge: for oure soule and body.</p>
+               <p>O thou great ryche hus<g ref="char:EOLhyphen"/>bande man: let thy greate riches riche our pouertye, thy merci bear our sinnes, thy grace beare and com<g ref="char:EOLhyphen"/>fort our frailnesse.</p>
+               <pb facs="tcp:176774:53"/>
+               <p>Thy holy Angell kepe vs from Sathan, and from all euyll: that our conuersa<g ref="char:EOLhyphen"/>cion may be honest, faith full, and plenty in all good workes, &amp; be saued throgh the merits of Iesus Christ our Lorde.</p>
+               <q>O Lorde haue mercy vp<g ref="char:EOLhyphen"/>on all peopel Amen.</q>
+            </div>
+            <div type="prayer">
+               <head>An other prayer.</head>
+               <p>O Lord Iesu Christe: thou hast saied, that whoso asketh, shall receiue: seke, and he shalle fynde: knocke, &amp; it shalbe opened. O Lorde haue mercy vpon mee, and g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue
+<pb n="52" facs="tcp:176774:53"/> mee thy holye spirite of grace, to aske suche things as it may please thee, and onely in thee to seeke my sauacion, and to seeke thy honor and glory. And geue me an harte to repente my sinfull life knowledginge throughe faithe, and hope vpon the gate thy merites, by the whiche I maye en<g ref="char:EOLhyphen"/>ter into thy Kingdome, O Lorde Iesu Christe, and be saued.</p>
+               <q>Lord haue mercy vpon all people. Amen</q>
+            </div>
+            <div type="prayer">
+               <head>An other prayer.</head>
+               <pb facs="tcp:176774:54"/>
+               <p>O Lorde God, father, I beseche thee for thy sonne Christes sake, powre vppon mee thy holye spirite of grace, and w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sdome to gouerne, and lead my body, and soule in thy worde, and cōmaundements, and that I may attain euer<g ref="char:EOLhyphen"/>lasting life by Christ our Lord. Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb n="53" facs="tcp:176774:54"/>
+               <p>O Lorde God our father almyghty.</p>
+               <q>Haue mer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y vpon vs</q>
+               <p>O Lord Iesu Christ thou sonne of God.</p>
+               <q>Haue mercy vpon vs</q>
+               <p>O Lord, God holy ghost.</p>
+               <q>Haue mercy vpon vs</q>
+               <p>O Lorde God holy trini<g ref="char:EOLhyphen"/>tie three persōnes, and one God almyghty.</p>
+               <q>Haue mercy vpon vs</q>
+               <p>IN whose name we wer baptized.</p>
+               <q>Haue mercy vpon vs</q>
+               <p>O Lorde Iesu Christe the sonne of God, by whome, heauen, and earth was created, and made.</p>
+               <q>Haue mercy vpon vs.</q>
+               <pb facs="tcp:176774:55"/>
+               <p>CHriste that treadeth downe the head of sa<g ref="char:EOLhyphen"/>than.</p>
+               <q>Haue mercy vpon vs</q>
+               <p>ANd suffer not Sathan, sinne, deathe, neither Hell to haue power ouer vs</p>
+               <p>CHrist, of whom all the Prophets Prophec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed of.</p>
+               <q>Haue mercy vpon vs</q>
+               <p>CHriste whiche arte the will, and substaunce of thef a ther.</p>
+               <q>Haue mercy vpon vs</q>
+               <pb n="54" facs="tcp:176774:55"/>
+               <p>WOrke thy grace in vs, and graffe vs in thee.</p>
+               <p>CHriste which arte the sonne of the highest God, and becamest man in the wombe of Mary the virgin: through the opera<g ref="char:EOLhyphen"/>cion of the holy ghoste.</p>
+               <q>Haue mercy vpon vs.</q>
+               <p>CHrist that art God, of the substaunce of the father, before all worldes: and man of the substaunce of thy mother, borne into this worlde, perfite God, and perfite manne one Christ.</p>
+               <q>Haue mercy vpon vs.</q>
+               <pb facs="tcp:176774:56"/>
+               <p>CHriste whiche arte the light &amp; lyfe of all men, the lambe of God that ta<g ref="char:EOLhyphen"/>keth away the sinns of the world.</p>
+               <q>Haue mercy vpon vs.</q>
+               <p>ANd in thy bloudye me<g ref="char:EOLhyphen"/>rites take away all our synnes.</p>
+            </div>
+            <div type="prayer">
+               <p>O Lorde Iesu Christe thou chaungedst wa<g ref="char:EOLhyphen"/>ter into wine.</p>
+               <p>To the borne blynde, thou gauest sight.</p>
+               <p>The deafe to heare.</p>
+               <p>The dombe to speake.</p>
+               <p>The lame to goe.</p>
+               <p>The dead to rise.</p>
+               <pb n="55" facs="tcp:176774:56"/>
+               <p>The leprous clensed.</p>
+               <p>The deuels cast out.</p>
+               <p>And pardonest sinnes, and healest all diseases of soule and body.</p>
+               <q>Haue mercy vpon vs.</q>
+               <p>ANd tourne vs whole to the, declare thy deuine mercye vppon vs: lyghten oure natural<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blyndnesse, throughe thy grace: open our hard hartes: and grosse eares to heare and reade thy worde, that heauenlye voyce, and to beleue, and folow it in our liuyng and conuersation. O sonne of Dauid.</p>
+               <p>O moste mightye kyng,
+<pb facs="tcp:176774:57"/> vs stronge throughe faith to confesse thy name to thy honoure: make our soules vpright in thee.</p>
+               <p>Raise vs vp from deadly sinne, vnto saluacion, caste out the deuell out of our hartes, and clense vs from all diseases of soule and body, be thou our shepherd bee thou our defender, be thou on our side: saue vs.</p>
+               <p>O Lorde Christe, thou hast created vs, thou haste died for our sinnes vpon the aulter of the crosse, to reconcile and saue vs, and to deliuer vs from y<seg rend="sup">•</seg> wrath of thy father.</p>
+               <pb n="56" facs="tcp:176774:57"/>
+               <p>Haue mercy vpon mee and vpon all people.</p>
+               <p>O Christ, be alwaies our merciful mediator vnto th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> father for vs, y<seg rend="sup">•</seg> wee poore wretched sinners may find grace, mercy and fauour, &amp; be saued throgh the, ver<g ref="char:EOLhyphen"/>tue of thy merits, O Christ</p>
+            </div>
+            <div type="hymn">
+               <head>The Anthem.</head>
+               <p>CHriste died for our sin<g ref="char:EOLhyphen"/>nes,<note place="margin">Rom 8</note> and is risen vp a<g ref="char:EOLhyphen"/>gayne: whiche is also on the righthande of God, and maketh intercession for vs.</p>
+               <p>Glory be to the father and to the sonne. &amp;c.</p>
+            </div>
+            <div type="verse">
+               <head>The verse</head>
+               <pb facs="tcp:176774:58"/>
+               <p>CHriste GOD and man, whiche arte in heauen, on the right hande of God the father, coequall in glo<g ref="char:EOLhyphen"/>rye,</p>
+               <p>Haue mercye vpon mee, and vppon all people that call to thee, thou knowest oure neade O Lorde, for damnation is of our selues but grace, mercye and sal<g ref="char:EOLhyphen"/>uation is of thee, and for thy sake.</p>
+            </div>
+            <div type="prayer">
+               <head>The prayer.</head>
+               <p>O Lorde Iesu Christ, thou sonne of god, I bowe the knees of my hart vnto thy good<g ref="char:EOLhyphen"/>nesse
+<pb n="57" facs="tcp:176774:58"/> praying thee as thou haste created me, and be<g ref="char:EOLhyphen"/>cammest man, and diedst for mee, and arte now in heauen, perfet God, and man sytting vpon the mer<g ref="char:EOLhyphen"/>cy seate: Beholde me with the eyes of thy mercy, con<g ref="char:EOLhyphen"/>ducte me so y<seg rend="sup">•</seg> in the truthe I may walke, setting forth thy gloryous worde plen<g ref="char:EOLhyphen"/>teously to thy honour, and prayse. O Christe Iesus whiche reignest God with the father, and the holy Ghoste for euer and euer. Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:176774:59"/>
+               <head>The prayer for the after none.</head>
+               <p>GOD bende thy selfe in<g ref="char:EOLhyphen"/>to my helpe, that I may drade thee aboue all thin<g ref="char:EOLhyphen"/>ges, and gyue me grace to loue thee, to repent my sinnes, and to amende my lyuinge: lorde make haste to succoure mee.</p>
+               <p>Glory be to the father, and to the sonne &amp;c.</p>
+            </div>
+            <div type="prayer">
+               <head>The prayers</head>
+               <p>O LORD thou arte My defendo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: my worship, and the lif<g ref="char:EOLhyphen"/>ter vp of my head, health, and saluation commethe
+<pb n="58" facs="tcp:176774:59"/> of thee O Christe: therfore thy blyssenge be vpon thy people.</p>
+               <p>O Lorde Iesu Christe, my kyng, and my God, vn<g ref="char:EOLunhyphen"/>to thee I make my prayer</p>
+               <p>O Lord lead me into thy righteousnesse because of mine enn emyes.</p>
+               <p>O faithfull people, offer the sacrifice of righteous<g ref="char:EOLhyphen"/>nesse, and put your truste in the Lorde.</p>
+               <p>O Christe, turne to mee those mercyfull eyen, by the which thou perdonest sinnes, &amp; sauesh thy people.</p>
+               <p>O Lorde sesse thou not to be mercyfull vnto mee,
+<pb facs="tcp:176774:60"/> let thy goodnesse folow me, al the daies of my lyfe.</p>
+               <p>Thou arte my maker, and my sauiour. O leaue me not neither forsake me swete Iesus.</p>
+               <p>I am willing to bee thy seruaunt. my harte desier<g ref="char:EOLhyphen"/>eth to loue thee, my soule which thou hast redemed desiereth to praise thee.</p>
+               <p>O Lorde Iesus let not the sinnefulnesse of my lyfe leese me.</p>
+               <p>But haue mercy vpō me, and saue mee.</p>
+               <p>O Lord absolue me from all those sinnes whiche I knowe not. And from all
+<pb n="59" facs="tcp:176774:60"/> them which I haue boldly commited So shall I bee clene from all sinnes.</p>
+               <p>O Lorde Christe thou art the porcion of mine hery<g ref="char:EOLhyphen"/>tage: the cuppe wherof I drynke, and the lifter vp of my heade, for in thy power is health, and sal<g ref="char:EOLhyphen"/>uacion.</p>
+               <p>Glory be to the father &amp; to the sonne &amp;c.</p>
+            </div>
+            <div type="chapter">
+               <head>The Chapiter.</head>
+               <p>CHrist was once offe<g ref="char:EOLhyphen"/>red vpon the Aulter the crosse to take a<g ref="char:EOLhyphen"/>waye the sinnes of many, And vnto them that looke
+<pb facs="tcp:176774:61"/> for hym, he shall appeare without sinne, vnto salua<g ref="char:EOLhyphen"/>cion.</p>
+               <q>Thankes be vnto God.</q>
+            </div>
+            <div type="hymn">
+               <head>The hymne</head>
+               <p>IEsus, thou seest what neede I haue.</p>
+               <p>I haue none els to com<g ref="char:EOLhyphen"/>playne vnto,</p>
+               <p>Thy grace and mercy I doo craue.</p>
+               <p>To be my guyde where euer I goe.</p>
+               <p>Iesus my soule &amp; body into thy handes I betake.</p>
+               <p>For with thy bloud thou haste me bought.</p>
+               <p>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue me for thy mercy sake.</p>
+               <pb n="60" facs="tcp:176774:61"/>
+               <p>Vnto thy ymage thou haste mee wrought.</p>
+               <p>Glory be to the father, &amp; to the sonne &amp;c.</p>
+            </div>
+            <div type="chapter">
+               <head>The Chapter</head>
+               <p>IF we sinne, we haue an aduocate with the father, euen Iesus Christ which is righteous, and he it is that opteyneth grace for our sinnes.</p>
+            </div>
+            <div type="bequest">
+               <head>The bequeste,</head>
+               <p>NOW Lorde God; heauenly father I bequeath my soule and body into thy handes:
+<pb facs="tcp:176774:62"/> hopyng, and beleuyng to be saued throughe the me<g ref="char:EOLhyphen"/>rits of thy onely sonne Iesus Christe my Lorde, and sauiour: whom thou, deare father, haste prepa<g ref="char:EOLhyphen"/>red, and set vp in heauen very God and man, to be thy mercy seate, throughe faith in his bloud.</p>
+               <p>Thus throwe the ope<g ref="char:EOLhyphen"/>racion of the holy ghost, y<seg rend="sup">•</seg> eyes of my soule behold, thee my redemption in thy onelye sonne Iesus Christe my Lorde.</p>
+               <p>Glory bee to the father and to the sonne and to the holy ghost, Amen.</p>
+            </div>
+            <div type="section">
+               <pb n="61" facs="tcp:176774:62"/>
+               <p>IF we knowledge oure synns, Iesus Christ the euerlastinge priest is iust, and ready to pardone, and forgeue vs our sinnes.</p>
+               <div type="answer">
+                  <head>The aunswere</head>
+                  <p>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>I Christe wee haue re<g ref="char:EOLhyphen"/>demption &amp; through his bloude the forgeuenesse of our synnes.</p>
+                  <q>Lorde God euerlasting fa<g ref="char:EOLhyphen"/>ther for thy sonne Christes sake haue mercy</q>
+                  <p>LOrd Iesus Christ sōne of God, thou redeamer of the worlde haue mercy.</p>
+                  <q>Lord God holy Ehest proce<g ref="char:EOLhyphen"/>dynge from the father, &amp; the sonne haue mercy.</q>
+                  <pb facs="tcp:176774:63"/>
+                  <p>Our father which arte in<note place="margin">Matth 5.</note> heauen. &amp;c.</p>
+                  <q>We loue, and beleue in the Lorde Iesus Christ though we see him not.</q>
+                  <p>For he is in heauen very God, and man, with the father gloryfied.</p>
+                  <q>O Iesus in the prayse of thy name I lifte vp my handes.</q>
+                  <p>His name be praised euer that was borne of the vir<g ref="char:EOLhyphen"/>gin Marye.</p>
+                  <q>There is none other name<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cf 4</note> geuen, wherin wee myght bee saued.</q>
+                  <p>Iesus Christe thou sonne of the liuing God, Iesus of
+<pb n="62" facs="tcp:176774:63"/> Nazareth Kynge of the Iewes. Sonne of Dauid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the lambe of God, the sa<g ref="char:EOLhyphen"/>uiour of the worlde.</p>
+                  <q>Both nov and euer haue mercy vpon me and vpon all people</q>
+                  <p>O Lorde Iesus Christe God and man, whiche shalt com to be our Iudge.</p>
+                  <q>Haue mercy vpon me &amp; vpon all people.</q>
+               </div>
+            </div>
+            <div type="prayer">
+               <head>The prayer.</head>
+               <q>Lorde heare my prayer.</q>
+               <p>O Lorde Iesus Christe that arte in heauen perfit God, and man heare my prayers, haue mercy vpon me, and pray vnto thy father for me, be
+<pb facs="tcp:176774:64"/> thou my mercifull media<g ref="char:EOLhyphen"/>tor vnto thy father, that I myght finde mercy for my sinnes at al tymes. and thy holy aungell to guide mee all dayes of my life, and at the generall day of iudge<g ref="char:EOLhyphen"/>ment, that I mai be parta<g ref="char:EOLhyphen"/>ker of that ioyfull voyce of thine, saying: come hether ye blessed, &amp; possesse euer<g ref="char:EOLhyphen"/>lasting life. Amen.</p>
+            </div>
+            <div type="section">
+               <head>Thankes or praise</head>
+               <p>I Thanke thee, good lord, that thou haste created me vnto thine Image, and haste geuen me a soule liuing with reason and vn<g ref="char:EOLhyphen"/>derstanding.</p>
+               <pb n="63" facs="tcp:176774:64"/>
+               <p>I thanke thee O God e<g ref="char:EOLhyphen"/>uerlastinge father, thou hast geuen thy onely sonne to becom man, and to dye for the sinnes of y<seg rend="sup">•</seg> people that they might be saued.</p>
+               <p>I thanke thee O Lorde God, thou haste taken me out of the duste of igno<g ref="char:EOLhyphen"/>rance, and haste gyuen, me, the euāgelicall know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edge, thy worde, and thy sonne,</p>
+               <p>I thanke thee, Lorde Iesus Christe, thou haste redemed me.</p>
+               <p>I thanke thee, Lorde god holy ghoste that thou hast,
+<pb facs="tcp:176774:65"/> and doste enspire, and stir me to faith, hope, and re<g ref="char:EOLhyphen"/>pentaunce, and to seke my saluacion in Iesus Christ.<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cor 12.</note>
+               </p>
+            </div>
+            <div type="conclusion">
+               <head>The conclusion</head>
+               <p>I Thanke thee, O ho<g ref="char:EOLhyphen"/>ly, glorious, &amp; blessed trynytye, with al my whole harte, for all the be<g ref="char:EOLhyphen"/>nefits that thou haste giuē me. For in the tyme of ig<g ref="char:EOLhyphen"/>noraunce thou hast geuen me knowledge, in the time of nede, thou haste gyuen me comforte, &amp; necessaries sufficient. And in trouble deliueraunce: in sicknes, health: O <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olye. God, all<g ref="char:EOLhyphen"/>mighty, all merciful, good
+<pb n="64" facs="tcp:176774:65"/> and true: haue mercy vpon mee, and vpon al the chil<g ref="char:EOLhyphen"/>dren that thou haste geuen mee: and euer geue vs al<g ref="char:EOLhyphen"/>wayes thy gracious com<g ref="char:EOLhyphen"/>forte, necessary for soule, and body that wee fall not in thy displeasaunce: but haue mercy vpon vs, haue mercy vpon al people, and direct our life, and conuer<g ref="char:EOLhyphen"/>sacion to thy honour, al the dayes of our life, that wee may say euer.</p>
+               <p>Glory be to thee O fa<g ref="char:EOLhyphen"/>ther, to the sonne, and to the holy ghoste.</p>
+               <p>If God be on our side,<note place="margin">Rom 4</note> who con be against vs? the
+<pb facs="tcp:176774:66"/> which spared not his owne sonne, but hath gyuen him for vs all, how shall not he with him giue vs al things also.</p>
+            </div>
+            <div type="prayer">
+               <head>The prayer</head>
+               <p>O Lorde Iesus Christ, be thou on my side, all the dayes of my life, thou arte the gift of the father to saue sinners, I beseche the Iesus, saue thou mee, and deliuer mee from all euyl both ghostly, and bodely now and euer to praise and worship thee in this, &amp; in the worlde to come Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb n="65" facs="tcp:176774:66"/>
+               <head>An nother prayer.</head>
+               <p>O LORD God, holy ghoste, haue mercy vpon mee, Inspire, and conducte mee, and leade me, so that mine en<g ref="char:EOLhyphen"/>nemye Sathan, nether the worldlyngs neuer see mee fall: but when I fall through nature, O holy ghoste, take me to thee▪ through thy diuine grace, and mercy, &amp; drawe me. &amp; all people vnto our Lorde Iesu Christ, that we might finde a sauiour, and be saued. Amen.</p>
+            </div>
+            <div type="articles">
+               <head>The xii Articles of the Christen faith, with an exposicion.</head>
+               <pb facs="tcp:176774:67"/>
+               <q>I beleue in god the father<note place="margin">Iere 01</note> almighty maker of heauen and earth.</q>
+               <p>HE is a true God: and a liuing God, and a mer<g ref="char:EOLhyphen"/>cifull father.</p>
+               <q>And in Iesu Christe his onely sonns, our Lord.</q>
+               <p>There is but one god,<note place="margin">Cor 8</note> euen the father by whō are all thynges. And one Lorde Iesus Christe, by whome are all thinges.<note place="margin">Luke 12</note>
+               </p>
+               <q>The which was conceiued by the holy ghoste, borne of the virgyn Marye.</q>
+               <p>Accordyng vnto the pro<g ref="char:EOLhyphen"/>mise<note place="margin">Gen <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of god the father, And to ful fill the prophe<g ref="char:EOLunhyphen"/>sye<note place="margin">Esay 5. 11</note> of the Prophetes</p>
+               <pb n="66" facs="tcp:176774:67"/>
+               <p>The sōne of God becam<note place="margin">Matth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> man, borne into this world to saue y<seg rend="sup">e</seg> people from their sinnes, nether is there sal<g ref="char:EOLhyphen"/>uacion<note place="margin">Act 4</note> in any other.</p>
+               <q>Suffered vnder Poncius Pilate, was crucified, ded, and buried, he descended into Hell, and the thyrd daye he rase agayne from the dead.</q>
+               <p>CHriste died for vs &amp; our<note place="margin">i Cor 1 Osay 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> sines, &amp; was buried. And y<seg rend="sup">•</seg> third day he rose frō death, by the glory of the father, according to the scripturs.</p>
+               <q>Hee ascended into heauen, and sytteth on the right hand of God the father almighty.</q>
+               <p>IF we sinne, we haue an<note place="margin">i Iohn 2</note> aduocate with y<seg rend="sup">•</seg> father,
+<pb facs="tcp:176774:68"/> euen Iesus Christ, y<seg rend="sup">•</seg> which is righteous, &amp; he obteineth grace for our sinnes,</p>
+               <q>From thence he shal come to Iudge the quicke, &amp; the dead.</q>
+               <p>THe father iudgethe no<note place="margin">Iohn. 5.</note> man, but hath geuen ouer al Iudgement vnto the sonne.</p>
+               <q>I beleue in the holy ghost.</q>
+               <p>THe which is coequall<note place="margin">Mat 24. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5</note> God with y<seg rend="sup">e</seg> father and the sonne, the whiche is<note place="margin">Act 2</note> procedyng.</p>
+               <p>The whiche is the spirite of knowledge, &amp; wisdom, trueth &amp; cōforte, which the<note place="margin">Iohn 14.</note> worlde knoweth hym not nether can receyue hym</p>
+               <pb n="67" facs="tcp:176774:68"/>
+               <q>The catholicke Churche.</q>
+               <p>THat is to saye the con<g ref="char:EOLunhyphen"/>gregacion<note place="margin">1 Cor <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> or assemblie of faithfull is the churche of God gouerned by the holy ghoste, Christe is the hed.</p>
+               <q>The communyon of saints.</q>
+               <p>That is to saye: as many<note place="margin">Iohn 10 Rom 8</note> as are sanctified, &amp; go<g ref="char:EOLhyphen"/>uerned by the holy ghoste are partakers of the kyng<g ref="char:EOLhyphen"/>dome of goddes glory: throughe the merites of Christ. Where I am there<note place="margin">Iohn 17</note> shall you be, saith Christe.</p>
+               <q>The forgeuenesse of sinnes.</q>
+               <p>Throughe him the Lorde<note place="margin">Esay 15.</note> pardoneth all sinnes.</p>
+               <q>The resurection of the body, and the life euerlastyng.</q>
+               <pb facs="tcp:176774:69"/>
+               <p>I B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leue that all man<g ref="char:EOLhyphen"/>kynde<note place="margin">Math 25</note> shal rise, both bo<g ref="char:EOLhyphen"/>dy, &amp; soule, to receyue the Iudgement of Christe.<note place="margin">Iohn 11</note>
+               </p>
+               <q>Saie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Christe I am the re<g ref="char:EOLhyphen"/>surrection and the life.</q>
+            </div>
+            <div type="conclusion">
+               <head>The conclusion.</head>
+               <p>I Beleue in God the fa<g ref="char:EOLhyphen"/>ther,<note place="margin">Gene 1</note> who hath made me and all the world.</p>
+               <q>And in God the sonne: who hath redemed mee, and all mankynd.</q>
+               <p>ANd thirdly in God the<note place="margin">Iohn 19</note> holy ghost: who hath, &amp; doth sanctify mee, and all the ele<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te people of God.</p>
+               <q>So I beleue the father is ful God▪ of him selfe.</q>
+               <p>THe sonne is full God, of the father begotten</p>
+               <pb n="68" facs="tcp:176774:69"/>
+               <q>The holy ghost is full God,<note place="margin">Act <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> of the father, &amp; of the sonne procedynge.</q>
+               <p>I saye not three Goddes: but one God almyghty.</p>
+               <q>Without beginnyng, and endyng.</q>
+               <p>THe maker, norisher,<note place="margin">Esay 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and gouernour of all, both in heauen, and earth</p>
+               <q>In whom I hope and beleue to be saued.</q>
+               <p>Glory be to the father and to the sonne &amp;c.</p>
+            </div>
+            <div type="section">
+               <head>An exhortacion vnto the Lordes supper.</head>
+               <p>AND the way to the<note place="margin">Matth 28</note> supper is, too exa<g ref="char:EOLhyphen"/>myn our conscience, knowledgynge our selfes
+<pb facs="tcp:176774:70"/> vnto God, repentynge our<note place="margin">Iohn 14</note> former life, askyng mercy of god y<seg rend="sup">•</seg> father for Christs sake</p>
+               <p>And gladlye forgeue all<note place="margin">Mat <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> thine offenders.</p>
+               <q>And then kneelyng, or stan<g ref="char:EOLhyphen"/>dyng, gyue credit vnto the word of God.</q>
+               <p>Saieth he the words that<note place="margin">Iohn. 6</note> I spake are spirit &amp; life<note place="margin">Math 18</note> When you shall se the bread: behold it with your natural eyes, as said christ it is bread: but spiritually lifte vp your hartes into heauen, where Christ, god<note place="margin">Act 1.</note> and man is syttyng on the right hand of God.</p>
+               <pb n="69" facs="tcp:176774:70"/>
+               <p>God wilbe worshiped in<note place="margin">Iohn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> spirite, and truth.</p>
+            </div>
+            <div type="prayer">
+               <head>Thankes.</head>
+               <p>O Father, I hartely<note place="margin">Colo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> thanke thee, whiche haste geuen thy sōne to take vpon him our na<g ref="char:EOLhyphen"/>turall bodye, whiche body was once offered vnto<note place="margin">Iohn 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> thee vpon the Aulter the crosse for sinners, for their health, welth, &amp; saluacion.</p>
+               <q>For whose sake father haue mercy vpon me.</q>
+               <p>When ye see the wyne beholde it with your natural eyes, as Christe saide it▪ is wine</p>
+            </div>
+            <div type="prayer">
+               <head>Thankes.</head>
+               <pb facs="tcp:176774:71"/>
+               <p>SAying, I thanke thee, deare father, that thou didst not spare thy sonne Iesus Christe, to shed his bloud vpon the aulter the crosse, for to washe awaye my sinnes: I beseche thee father, that y<seg rend="sup">e</seg> crucifieng of his body, &amp; the shedynge of his bloud, may be meri<g ref="char:EOLhyphen"/>torious to my saluacion.</p>
+               <q>Our father whiche arte in heauen▪</q>
+               <p>Haue mercy vpon vs.</p>
+               <q>Our sauiour Iesu Christe,<note place="margin">Act 2</note> God, and man whiche arte in heauen.</q>
+               <p>Haue mercy vpon vs.</p>
+               <q>Our comforter, the holye<note place="margin">Act 2</note> ghoste.</q>
+               <p>Haue mercy vpon vs.</p>
+            </div>
+            <div type="prayer">
+               <pb n="70" facs="tcp:176774:71"/>
+               <head>The prayer.</head>
+               <p>O Holy father, of hea<g ref="char:EOLhyphen"/>uen, I beseche thee for thy sōne Christs sake, haue mercy vppon mee, &amp; vpon all people and forgeue vs all our sinnes.</p>
+               <p>And from hence forth geue thy holy Angell the charge of vs, to kepe our soules, and bodies blame<g ref="char:EOLhyphen"/>lesse vnto the comming of thy sonne Iesus Christe, our sauiour, Amen.</p>
+            </div>
+            <div type="section">
+               <head>Excepte ye eate the fleshe of the<note place="margin">Iohn 6</note> sonne of man and drinke hys bloud, there is no life in you.</head>
+               <pb facs="tcp:176774:72"/>
+               <p>SPyrytually to eate the body of Christ, god &amp; man, fleshe, bloud and bone, &amp; to drinke his bloud: is, faithfully to beleue y<seg rend="sup">•</seg> the body of Christ was crucified, &amp; bloud shed for our saluacion.</p>
+               <p>And to receyue y<seg rend="sup">•</seg> Lordes supper, euen for a token of this fayth, and saluacion in Christes merites, and shall euer declare Christes<note place="margin">Luke. 22.</note> death out of the scripture with thankes geuyng, vn<g ref="char:EOLhyphen"/>til he come. But if yee<note place="margin">i Cor 6.</note> haue any other eatynge, it is playne Idolatry.</p>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:176774:72"/>
+            <head>¶ A Table to finde out suche thynges as bee con<g ref="char:EOLhyphen"/>teyned in this booke, And note where as thou fin<g ref="char:EOLhyphen"/>dest this letter a, that betokeneth the first side of the leaf and this letter b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be<g ref="char:EOLhyphen"/>tokeneth the last side of the leaf.</head>
+            <list>
+               <item>An exortacion vnto prayer folio 2 a</item>
+               <item>Prayers to be saide in the morning beginīg fol 2 b</item>
+               <item>A fourme of makynge a Testament 5 a</item>
+               <item>The Confessiō of a Chris<g ref="char:EOLhyphen"/>tian faith with the hope
+<pb facs="tcp:176774:73"/> of the faithfull 6 a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The Glasse wherin we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> maye beholde our infir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mities 7 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>The Confession of the pe<g ref="char:EOLhyphen"/>nitent sinner, conceyued through faith, ioined with a stronge hope in Christs merites 12 b</item>
+               <item>The Catholike Church 19 b</item>
+               <item>A Prayer 31 a</item>
+               <item>The prayer of our Lorde with a short exposicion of the same 33 a</item>
+               <item>The salutaciō to God 35 b</item>
+               <item>A nother salutacion vnto Christe 36 a</item>
+               <item>A prayer to god y<seg rend="sup">•</seg> father 38</item>
+               <item>An Inuocaciō to God 38 a</item>
+               <pb facs="tcp:176774:73"/>
+               <item>The Hymne 39 a</item>
+               <item>The Psalme 39 b</item>
+               <item>The praier for the after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one 57 b</item>
+               <item>The Hymne 59 b</item>
+               <item>Thanks giuing to God bothe for a mannes selfe &amp; also for his familie 63 b</item>
+               <item>The 12 Articles of the Christen faith 65 a</item>
+               <item>In Exhortacion vnto the Lordes supper 68 a</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Thanks giuing at y<seg rend="sup">•</seg> re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eiuīg of y<seg rend="sup">e</seg> Cōmuniō 69 a</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n other prayer at the Cmmunion 70 a</item>
+               <item>What it is spiritually to eate the body of Christe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e she bloude &amp; bone 70 b</item>
+            </list>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:176774:74"/>
+            <p>Imprinted at London by Iohn Charlewood dwellyng in Barbi<g ref="char:EOLhyphen"/>can &amp; there to be solde at his shop</p>
+            <pb facs="tcp:176774:74"/>
+         </div>
+      </back>
+   </text>
+</TEI>
